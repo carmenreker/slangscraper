@@ -82,8 +82,8 @@ City dataset collected from https://www.metatopos.eu/Wpnr.php
 Data was manually copied and pasted into two txt files.  
 Selecting all table entries is fine, this will be cleaned up later.  
 
-Put all cities from Noord-Holland, Zuid-Holland and Utrecht into a file called randstad.txt
-Put all cities from the other provinces (Groningen, Friesland, Drenthe, Overijssel, Gelderland, Zeeland, Noord-Brabant and Limburg) into a file called nederland.txt
+Put all cities from Noord-Holland, Zuid-Holland and Utrecht into a file called randstadraw.txt
+Put all cities from the other provinces (Groningen, Friesland, Drenthe, Overijssel, Gelderland, Zeeland, Noord-Brabant and Limburg) into a file called nederlandraw.txt
 
 ## Executing program
 
