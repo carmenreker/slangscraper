@@ -1,0 +1,2070 @@
+'s-Gravenpolder	1263	4431	Borsele	Zeeland
+'s-Heer Abtskerke	1264	4444	Borsele	Zeeland
+'s-Heerenhoek	1265	4453	Borsele	Zeeland
+Baarland	1251	4435	Borsele	Zeeland
+Borssele	1252	4454	Borsele	Zeeland
+Driewegen	1253	4438	Borsele	Zeeland
+Ellewoutsdijk	1254	4437	Borsele	Zeeland
+Heinkenszand	1255	4451	Borsele	Zeeland
+Hoedekenskerke	1256	4433	Borsele	Zeeland
+Kwadendamme	1257	4434	Borsele	Zeeland
+Lewedorp	1258	4456	Borsele	Zeeland
+Nieuwdorp	1259	4455	Borsele	Zeeland
+Nisse	1260	4443	Borsele	Zeeland
+Oudelande	1261	4436	Borsele	Zeeland
+Ovezande	1262	4441	Borsele	Zeeland
+'s-Heer Arendskerke	1822	4458	Goes	Zeeland
+'s-Heer Hendrikskinderen	1823	4472	Goes	Zeeland
+Goes	1824	4461-4465	Goes	Zeeland
+Kattendijke	1825	4474	Goes	Zeeland
+Kloetinge	1826	4481	Goes	Zeeland	Een gelijknamig en aangrenzend Kloetinge (postcode 4482 en woonplaatscode 1468) ligt in buurgemeente Kapelle.
+Wilhelminadorp	1827	4475	Goes	Zeeland
+Wolphaartsdijk	1828	4471	Goes	Zeeland
+Clinge	3092	4567	Hulst	Zeeland
+Graauw	3094	4569	Hulst	Zeeland
+Heikant	3091	4566	Hulst	Zeeland
+Hengstdijk	3098	4585	Hulst	Zeeland
+Hulst	3088	4561-4562	Hulst	Zeeland
+Kapellebrug	3090	4565	Hulst	Zeeland
+Kloosterzande	3100	4587	Hulst	Zeeland
+Kuitaart	3097	4584	Hulst	Zeeland
+Lamswaarde	3099	4586	Hulst	Zeeland
+Nieuw-Namen	3093	4568	Hulst	Zeeland
+Ossenisse	3102	4589	Hulst	Zeeland
+Sint Jansteen	3089	4564	Hulst	Zeeland
+Terhole	3096	4583	Hulst	Zeeland
+Vogelwaarde	3095	4581	Hulst	Zeeland
+Walsoorden	3101	4588	Hulst	Zeeland
+Kapelle	1467	4421	Kapelle	Zeeland
+Kloetinge	1468	4482	Kapelle	Zeeland	Een gelijknamig en aangrenzend Kloetinge (postcode 4481 en woonplaatscode 1826) ligt in buurgemeente Goes.
+Schore	1469	4423	Kapelle	Zeeland
+Wemeldinge	1470	4424	Kapelle	Zeeland
+Arnemuiden	1008	4341	Middelburg	Zeeland
+Middelburg	1007	4331-4338	Middelburg	Zeeland
+Nieuw- en Sint Joosland	1009	4339	Middelburg	Zeeland
+-	3194		Noord-Beveland	Zeeland	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor plaats in deze gemeente Noord-Beveland of in Brabantse gemeente Grave
+Colijnsplaat	3190	4486	Noord-Beveland	Zeeland
+Geersdijk	3193	4494	Noord-Beveland	Zeeland
+Kamperland	3188	4493	Noord-Beveland	Zeeland
+Kats	3192	4485	Noord-Beveland	Zeeland
+Kortgene	3189	4484	Noord-Beveland	Zeeland
+Wissenkerke	3191	4491	Noord-Beveland	Zeeland
+Hansweert	3461	4417	Reimerswaal	Zeeland
+Krabbendijke	3462	4413	Reimerswaal	Zeeland
+Kruiningen	3463	4416	Reimerswaal	Zeeland
+Oostdijk	3464	4415	Reimerswaal	Zeeland
+Rilland	3465	4411	Reimerswaal	Zeeland
+Waarde	3466	4414	Reimerswaal	Zeeland
+Yerseke	3467	4401	Reimerswaal	Zeeland
+Brouwershaven	2674	4318	Schouwen-Duiveland	Zeeland	bungalowpark Den Osse is als wijk van Brouwershaven ingevoerd
+Bruinisse	2675	4311	Schouwen-Duiveland	Zeeland
+Burgh-Haamstede	2676	4328	Schouwen-Duiveland	Zeeland
+Dreischor	2677	4315	Schouwen-Duiveland	Zeeland
+Ellemeet	2678	4323	Schouwen-Duiveland	Zeeland
+Kerkwerve	2679	4321	Schouwen-Duiveland	Zeeland
+Nieuwerkerk	2680	4306	Schouwen-Duiveland	Zeeland
+Noordgouwe	2681	4317	Schouwen-Duiveland	Zeeland
+Noordwelle	2682	4326	Schouwen-Duiveland	Zeeland
+Oosterland	2683	4307	Schouwen-Duiveland	Zeeland
+Ouwerkerk	2684	4305	Schouwen-Duiveland	Zeeland
+Renesse	2685	4325	Schouwen-Duiveland	Zeeland
+Scharendijke	2686	4322	Schouwen-Duiveland	Zeeland
+Serooskerke	2687	4327	Schouwen-Duiveland	Zeeland
+Sirjansland	2688	4308	Schouwen-Duiveland	Zeeland
+Zierikzee	2689	4301-4303	Schouwen-Duiveland	Zeeland
+Zonnemaire	2690	4316	Schouwen-Duiveland	Zeeland
+Aardenburg	2961	4527	Sluis	Zeeland
+Biervliet	2975	4522	Sluis	Zeeland	Dit is westelijk en zuidelijk buitengebied. Dorp en noordoostelijk aangrenzend buitengebied ligt in buurgemeente Terneuzen (woonplaatscode 1129, postcode 4521).
+Breskens	2965	4511	Sluis	Zeeland
+Cadzand	2964	4506	Sluis	Zeeland
+Eede	2966	4529	Sluis	Zeeland
+Groede	2967	4503	Sluis	Zeeland
+Hoofdplaat	2968	4513	Sluis	Zeeland
+IJzendijke	2974	4515	Sluis	Zeeland
+Nieuwvliet	2969	4504	Sluis	Zeeland
+Oostburg	2960	4501	Sluis	Zeeland
+Retranchement	2970	4525	Sluis	Zeeland
+Schoondijke	2971	4507	Sluis	Zeeland
+Sint Kruis	2973	4528	Sluis	Zeeland
+Sluis	2962	4524	Sluis	Zeeland
+Waterlandkerkje	2963	4508	Sluis	Zeeland
+Zuidzande	2972	4505	Sluis	Zeeland
+Axel	1128	4571	Terneuzen	Zeeland
+Biervliet	1129	4521	Terneuzen	Zeeland	Dit is dorp en noordoostelijk buitengebied. Aangrenzend westelijk en zuidelijk buitengebied ligt in buurgemeente Sluis (woonplaatscode 2975, postcode 4522).
+Hoek	1130	4542	Terneuzen	Zeeland
+Koewacht	1131	4576	Terneuzen	Zeeland
+Overslag	1132	4575	Terneuzen	Zeeland
+Philippine	1133	4553	Terneuzen	Zeeland
+Sas van Gent	1134	4551	Terneuzen	Zeeland
+Sluiskil	1135	4541	Terneuzen	Zeeland	Voormalig buurtschap Axels(ch)e Sassing (in 2008 gesloopt) lag aan weerszijden van Zijkanaal C, op de grens van Sluiskil en Westdorpe.
+Spui	1136	4539	Terneuzen	Zeeland
+Terneuzen	1137	4531-4538	Terneuzen	Zeeland
+Westdorpe	1138	4554	Terneuzen	Zeeland	Voormalig buurtschap Axels(ch)e Sassing (in 2008 gesloopt) lag aan weerszijden van Zijkanaal C, op de grens van Sluiskil en Westdorpe.
+Zaamslag	1139	4543	Terneuzen	Zeeland
+Zuiddorpe	1140	4574	Terneuzen	Zeeland
+Oud-Vossemeer	2077	4698	Tholen	Zeeland
+Poortvliet	2072	4693	Tholen	Zeeland
+Scherpenisse	2073	4694	Tholen	Zeeland
+Sint-Annaland	2076	4697	Tholen	Zeeland	woonplaats met code 2076 werd aanvankelijk gespeld 'Sint Annaland' (twee woorden) en werd nadien gewijzigd in 'Sint-Annaland' (met koppelteken)
+Sint-Maartensdijk	2074	4695	Tholen	Zeeland	woonplaats met code 2074 werd aanvankelijk gespeld 'Sint Maartensdijk' (twee woorden) en werd nadien gewijzigd in 'Sint-Maartensdijk' (met koppelteken).
+Sint Philipsland	2078	4675	Tholen	Zeeland	Bij deze plaats is de woonplaatscodespelling nog met twee woorden. Op blauwe bebouwde-komborden is deze gecorrigeerd in één woord met koppelteken.
+Stavenisse	2075	4696	Tholen	Zeeland
+Tholen	2071	4691	Tholen	Zeeland
+Aagtekerke	2774	4363	Veere	Zeeland
+Biggekerke	2775	4373	Veere	Zeeland
+Domburg	2776	4357	Veere	Zeeland
+Gapinge	2777	4352	Veere	Zeeland
+Grijpskerke	2778	4364	Veere	Zeeland
+Koudekerke	2779	4371	Veere	Zeeland
+Meliskerke	2780	4365	Veere	Zeeland
+Oostkapelle	2781	4356	Veere	Zeeland
+Serooskerke	2782	4353	Veere	Zeeland
+Veere	2783	4351	Veere	Zeeland
+Vrouwenpolder	2784	4354	Veere	Zeeland
+Westkapelle	2785	4361	Veere	Zeeland
+Zoutelande	2786	4374	Veere	Zeeland
+Oost-Souburg	1076	4388	Vlissingen	Zeeland
+Ritthem	1077	4389	Vlissingen	Zeeland
+Vlissingen	1078	4381-4387	Vlissingen	Zeeland
+'s-Hertogenbosch / Den Bosch	1595	5211-5237	's-Hertogenbosch	Noord-Brabant	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+-	2748		's-Hertogenbosch	Noord-Brabant	vervallen woonplaatscode voor Nuland; de actuele code voor Nuland is 3611
+-	2749		's-Hertogenbosch	Noord-Brabant	vervallen woonplaatscode voor Vinkel; de actuele code voor Vinkel is gesplitst in 3612 (in deze gemeente 's-Hertogenbosch) en in 3063 (in buurgemeente Bernheze)
+Nuland	3611	5391-5392	's-Hertogenbosch	Noord-Brabant	woonplaatscode Nuland hernummerd van 2748 (voormalige gemeente Maasdonk) in 3611
+Rosmalen	1596	5241-5249	's-Hertogenbosch	Noord-Brabant
+Vinkel	3612	5381-5383	's-Hertogenbosch	Noord-Brabant	Het westelijk deel van Munnekens-Vinkel (2 km oostelijker, nog juist in deze gemeente 's-Hertogenbosch) wordt ook wel met Vinkel aangeduid.
+Alphen	3432	5131	Alphen-Chaam	Noord-Brabant
+Bavel AC	3437	4859	Alphen-Chaam	Noord-Brabant
+Chaam	3433	4861	Alphen-Chaam	Noord-Brabant
+Galder	3434	4855	Alphen-Chaam	Noord-Brabant
+Strijbeek	3435	4856	Alphen-Chaam	Noord-Brabant
+Ulvenhout AC	3436	4858	Alphen-Chaam	Noord-Brabant
+Almkerk	3300	4286	Altena	Noord-Brabant
+Andel	3301	4281	Altena	Noord-Brabant
+Babyloniënbroek	1951	4269	Altena	Noord-Brabant
+Drongelen	1952	4267	Altena	Noord-Brabant
+Dussen	2214	4271	Altena	Noord-Brabant
+Eethen	1953	4266	Altena	Noord-Brabant
+Genderen	1954	4265	Altena	Noord-Brabant
+Giessen	3302	4283	Altena	Noord-Brabant
+Hank	2215	4273	Altena	Noord-Brabant
+Meeuwen	1955	4268	Altena	Noord-Brabant
+Nieuwendijk	2216	4255	Altena	Noord-Brabant
+Rijswijk (NB)	3303	4284	Altena	Noord-Brabant	Het Kadaster voegt in zijn spelling van deze plaatsnaam een afkorting toe.
+Sleeuwijk	2217	4254	Altena	Noord-Brabant
+Uitwijk	3304	4288	Altena	Noord-Brabant
+Veen	1956	4264	Altena	Noord-Brabant
+Waardhuizen	3305	4287	Altena	Noord-Brabant
+Werkendam	2218	4251	Altena	Noord-Brabant
+Wijk en Aalburg	1957	4261	Altena	Noord-Brabant
+Woudrichem	3306	4285	Altena	Noord-Brabant
+Asten	2928	5721	Asten	Noord-Brabant
+Heusden	2929	5725	Asten	Noord-Brabant
+Ommel	2930	5724	Asten	Noord-Brabant
+Baarle-Nassau	2883	5111	Baarle-Nassau	Noord-Brabant
+Castelre	2885	5114	Baarle-Nassau	Noord-Brabant
+Ulicoten	2884	5113	Baarle-Nassau	Noord-Brabant
+Bergeijk	1457	5571	Bergeijk	Noord-Brabant
+Luyksgestel	1458	5575	Bergeijk	Noord-Brabant
+Riethoven	1459	5561	Bergeijk	Noord-Brabant
+Westerhoven	1460	5563	Bergeijk	Noord-Brabant
+Bergen op Zoom	1937	4611-4625	Bergen op Zoom	Noord-Brabant	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Halsteren	1938	4661	Bergen op Zoom	Noord-Brabant
+Lepelstraat	1939	4664	Bergen op Zoom	Noord-Brabant
+Heesch	3059	5384	Bernheze	Noord-Brabant
+Heeswijk-Dinther	3060	5473	Bernheze	Noord-Brabant	De twee kernen Heeswijk en Dinther worden sinds ca. 2009 als één plaatsnaam gebruikt.
+Loosbroek	3061	5471-5472	Bernheze	Noord-Brabant
+Nistelrode	3062	5388	Bernheze	Noord-Brabant
+Vinkel	3063	5384	Bernheze	Noord-Brabant	Vinkel is gesplitst in 3 delen: 2 enclaves (samen code 3063) noordoostelijk en zuidoostelijk van bebouwde kom Vinkel; de bebouwde kom zelf ligt in buurgemeente 's-Hertogenbosch (woonplaatscode 3612).
+Vorstenbosch	3064	5476	Bernheze	Noord-Brabant
+Best	1456	5681-5685	Best	Noord-Brabant
+Bladel	1064	5531	Bladel	Noord-Brabant
+Casteren	1067	5529	Bladel	Noord-Brabant
+Hapert	1065	5527	Bladel	Noord-Brabant
+Hoogeloon	1066	5528	Bladel	Noord-Brabant
+Netersel	1068	5534	Bladel	Noord-Brabant
+Boekel	3138	5427	Boekel	Noord-Brabant
+Venhorst	3139	5428	Boekel	Noord-Brabant
+Beugen	1214	5835	Boxmeer	Noord-Brabant
+Boxmeer	1215	5831	Boxmeer	Noord-Brabant
+Groeningen	1216	5826	Boxmeer	Noord-Brabant
+Holthees	1217	5824	Boxmeer	Noord-Brabant
+Maashees	1218	5823	Boxmeer	Noord-Brabant
+Oeffelt	1219	5441	Boxmeer	Noord-Brabant
+Overloon	1220	5825	Boxmeer	Noord-Brabant
+Rijkevoort	1221	5447	Boxmeer	Noord-Brabant
+Sambeek	1222	5836	Boxmeer	Noord-Brabant
+Vierlingsbeek	1223	5821	Boxmeer	Noord-Brabant
+Vortum-Mullem	1224	5827	Boxmeer	Noord-Brabant
+Boxtel	2439	5281-5283	Boxtel	Noord-Brabant
+Esch	1426	5296	Boxtel	Noord-Brabant
+Liempde	2440	5298	Boxtel	Noord-Brabant
+-	1702		Breda	Noord-Brabant	Woonplaatscode Breda hernummerd van 1702 in 3622
+-	1706		Breda	Noord-Brabant	Woonplaatscode Teteringen hernummerd van 1706 in 3623.
+-	1703		Breda	Noord-Brabant	Woonplaatscode Bavel hernummerd van 1703 in 3624.
+Bavel	3624	4854	Breda	Noord-Brabant	Woonplaatscode Bavel hernummerd van 1703 in 3624.
+Breda	3622	4811-4839	Breda	Noord-Brabant	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats. Woonplaatscode Breda hernummerd van 1702 in 3622
+Prinsenbeek	1705	4841	Breda	Noord-Brabant
+Teteringen	3623	4847	Breda	Noord-Brabant	Woonplaatscode Teteringen hernummerd van 1706 in 3623.
+Ulvenhout	1704	4851	Breda	Noord-Brabant
+Budel	1571	6021	Cranendonck	Noord-Brabant
+Budel-Dorplein	1573	6024	Cranendonck	Noord-Brabant
+Budel-Schoot	1572	6023	Cranendonck	Noord-Brabant
+Gastel	1570	6028	Cranendonck	Noord-Brabant
+Maarheeze	1568	6026	Cranendonck	Noord-Brabant
+Soerendonk	1569	6027	Cranendonck	Noord-Brabant
+Beers NB	1449	5437	Cuijk	Noord-Brabant
+Cuijk	1450	5431-5432	Cuijk	Noord-Brabant
+Haps	1451	5443	Cuijk	Noord-Brabant
+Katwijk NB	1452	5433	Cuijk	Noord-Brabant
+Linden	1453	5439	Cuijk	Noord-Brabant
+Sint Agatha	1454	5435	Cuijk	Noord-Brabant
+Vianen NB	1455	5434	Cuijk	Noord-Brabant	Het Kadaster heeft woonplaatscode 1455 aanvankelijk toegekend aan 'Vianen', inmiddels aan 'Vianen NB'.
+Deurne	1774	5751-5754	Deurne	Noord-Brabant
+Helenaveen	1778	5759	Deurne	Noord-Brabant
+Liessel	1776	5757	Deurne	Noord-Brabant
+Neerkant	1777	5758	Deurne	Noord-Brabant
+Vlierden	1775	5756	Deurne	Noord-Brabant
+'s Gravenmoer	2800	5109	Dongen	Noord-Brabant	woonplaats wordt zonder koppelteken gespeld
+Dongen	2799	5101-5107	Dongen	Noord-Brabant
+Drimmelen	2574	4924	Drimmelen	Noord-Brabant
+Hooge Zwaluwe	2575	4927	Drimmelen	Noord-Brabant
+Lage Zwaluwe	2576	4926	Drimmelen	Noord-Brabant
+Made	2577	4921	Drimmelen	Noord-Brabant
+Terheijden	2578	4844	Drimmelen	Noord-Brabant
+Wagenberg	2579	4845	Drimmelen	Noord-Brabant
+Zevenbergschen Hoek	2580	4766	Drimmelen	Noord-Brabant	buitengebied Zevenbergschen Hoek-oost: Eerste Weg 1 en 2, Tweede Weg 2-4, Derde Weg 2-8
+Duizel	2992	5525	Eersel	Noord-Brabant
+Eersel	2993	5521	Eersel	Noord-Brabant
+Knegsel	2994	5511	Eersel	Noord-Brabant
+Steensel	2995	5524	Eersel	Noord-Brabant
+Vessem	2996	5512	Eersel	Noord-Brabant
+Wintelre	2997	5513	Eersel	Noord-Brabant
+Eindhoven	1101	5611-5658	Eindhoven	Noord-Brabant	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Etten-Leur	1010	4871-4879	Etten-Leur	Noord-Brabant
+Geertruidenberg	1751	4931	Geertruidenberg	Noord-Brabant
+Raamsdonk	1752	4944	Geertruidenberg	Noord-Brabant
+Raamsdonksveer	1750	4941-4942	Geertruidenberg	Noord-Brabant
+Geldrop	1126	5661-5667	Geldrop-Mierlo	Noord-Brabant
+Mierlo	1127	5731	Geldrop-Mierlo	Noord-Brabant
+Bakel	2090	5761	Gemert-Bakel	Noord-Brabant
+De Mortel	2093	5425	Gemert-Bakel	Noord-Brabant
+De Rips	2094	5764	Gemert-Bakel	Noord-Brabant
+Elsendorp	2095	5424	Gemert-Bakel	Noord-Brabant
+Gemert	2089	5421-5422	Gemert-Bakel	Noord-Brabant
+Handel	2092	5423	Gemert-Bakel	Noord-Brabant
+Milheeze	2091	5763	Gemert-Bakel	Noord-Brabant
+Gilze	2067	5126	Gilze en Rijen	Noord-Brabant
+Hulten	2068	5125	Gilze en Rijen	Noord-Brabant
+Molenschot	2069	5124	Gilze en Rijen	Noord-Brabant
+Rijen	2070	5121-5122	Gilze en Rijen	Noord-Brabant
+Goirle	2880	5051-5053	Goirle	Noord-Brabant
+Riel	2881	5133	Goirle	Noord-Brabant
+Escharen	3195	5364	Grave	Noord-Brabant
+Gassel	3196	5438	Grave	Noord-Brabant
+Grave	3197	5361	Grave	Noord-Brabant
+Velp	3198	5363	Grave	Noord-Brabant
+Bosschenhoofd	1249	4744	Halderberge	Noord-Brabant
+Hoeven	1250	4741	Halderberge	Noord-Brabant
+Oud Gastel	1248	4751	Halderberge	Noord-Brabant
+Oudenbosch	1246	4731	Halderberge	Noord-Brabant
+Stampersgat	1247	4754	Halderberge	Noord-Brabant
+Heeze	1314	5591	Heeze-Leende	Noord-Brabant
+Leende	1315	5595	Heeze-Leende	Noord-Brabant
+Sterksel	1316	6029	Heeze-Leende	Noord-Brabant
+Helmond	1146	5701-5709	Helmond	Noord-Brabant
+-	3501		Heusden	Noord-Brabant	vervallen woonplaatscode voor Heusden; de actuele code voor Heusden is 3518
+-	3498		Heusden	Noord-Brabant	woonplaatscode Drunen hernummerd van 3498 in 3589
+-	3499		Heusden	Noord-Brabant	woonplaatscode Elshout hernummerd van 3499 in 3590
+Doeveren	3514	5157	Heusden	Noord-Brabant	Per 15-1-2018 heeft deze plaats een eigen 4-cijferige postcode gekregen (5256 is voortaan alleen geldig voor de plaats Heusden).
+Drunen	3589	5151-5152	Heusden	Noord-Brabant	woonplaatscode Drunen hernummerd van 3498 in 3589
+Elshout	3590	5154	Heusden	Noord-Brabant	woonplaatscode Elshout hernummerd van 3499 in 3590
+Haarsteeg	3500	5254	Heusden	Noord-Brabant
+Hedikhuizen	3515	5257	Heusden	Noord-Brabant	Per 15-1-2018 heeft deze plaats een eigen 4-cijferige postcode gekregen (5256 is voortaan alleen geldig voor de plaats Heusden).
+Heesbeen	3516	5158	Heusden	Noord-Brabant	Per 15-1-2018 heeft deze plaats een eigen 4-cijferige postcode gekregen (5256 is voortaan alleen geldig voor de plaats Heusden).
+Herpt	3517	5255	Heusden	Noord-Brabant	Per 15-1-2018 heeft deze plaats een eigen 4-cijferige postcode gekregen (5256 is voortaan alleen geldig voor de plaats Heusden).
+Heusden	3518	5256	Heusden	Noord-Brabant	Per 15-1-2018 is deze 4-cijferige postcode 5256 uitsluitend geldig voor de woonplaats Heusden (dus voor de vestingstad).
+Nieuwkuijk	3502	5253	Heusden	Noord-Brabant
+Oudheusden	3519	5156	Heusden	Noord-Brabant	Per 15-1-2018 heeft deze plaats een eigen 4-cijferige postcode gekregen (5256 is voortaan alleen geldig voor de plaats Heusden).
+Vlijmen	3503	5251-5252	Heusden	Noord-Brabant
+Biest-Houtakker	1309	5084	Hilvarenbeek	Noord-Brabant
+Diessen	1308	5087	Hilvarenbeek	Noord-Brabant
+Esbeek	1311	5085	Hilvarenbeek	Noord-Brabant
+Haghorst	1310	5089	Hilvarenbeek	Noord-Brabant
+Hilvarenbeek	1307	5081	Hilvarenbeek	Noord-Brabant
+Aarle-Rixtel	1445	5735	Laarbeek	Noord-Brabant
+Beek en Donk	1446	5741	Laarbeek	Noord-Brabant
+Lieshout	1447	5737	Laarbeek	Noord-Brabant
+Mariahout	1448	5738	Laarbeek	Noord-Brabant
+Reek	1852	5375	Landerd	Noord-Brabant
+Schaijk	1851	5374	Landerd	Noord-Brabant
+Zeeland	1850	5411	Landerd	Noord-Brabant
+De Moer	3054	5176	Loon op Zand	Noord-Brabant
+Kaatsheuvel	3052	5171-5172	Loon op Zand	Noord-Brabant
+Loon op Zand	3053	5175	Loon op Zand	Noord-Brabant
+Erp	2826	5469	Meierijstad	Noord-Brabant
+Schijndel	2139	5481-5482	Meierijstad	Noord-Brabant
+Sint-Oedenrode	2787	5491-5492	Meierijstad	Noord-Brabant
+Veghel	2827	5461-5467	Meierijstad	Noord-Brabant
+Langenboom	1978	5453	Mill en Sint Hubert	Noord-Brabant
+Mill	1976	5451	Mill en Sint Hubert	Noord-Brabant
+Sint Hubert	1977	5454	Mill en Sint Hubert	Noord-Brabant
+Wilbertoord	1979	5455	Mill en Sint Hubert	Noord-Brabant
+Fijnaart	1321	4793	Moerdijk	Noord-Brabant
+Heijningen	1318	4794	Moerdijk	Noord-Brabant
+Klundert	1319	4791	Moerdijk	Noord-Brabant
+Langeweg	1326	4771-4772	Moerdijk	Noord-Brabant
+Moerdijk	1322	4781-4782	Moerdijk	Noord-Brabant
+Noordhoek	1325	4759	Moerdijk	Noord-Brabant
+Oudemolen	1320	4796	Moerdijk	Noord-Brabant
+Standdaarbuiten	1324	4758	Moerdijk	Noord-Brabant
+Willemstad	1317	4797	Moerdijk	Noord-Brabant
+Zevenbergen	1323	4761-4762	Moerdijk	Noord-Brabant
+Zevenbergschen Hoek	1327	4765	Moerdijk	Noord-Brabant
+Nuenen	2136	5671-5674	Nuenen, Gerwen en Nederwetten	Noord-Brabant
+Oirschot	1207	5688-5689	Oirschot	Noord-Brabant
+Oost West en Middelbeers	1208	5091	Oirschot	Noord-Brabant	In 1997 is de gemeente 'Oost-, West- en Middelbeers' opgeheven en opgegaan in de gemeente Oirschot. Nu is een woonplaatscode toegekend aan deze 'plaats', met weglating van de koppeltekens en komma.
+Haaren	1427	5076	Oisterwijk	Noord-Brabant
+Heukelom	2648	5059	Oisterwijk	Noord-Brabant	Hoog-Heukelom is opgegaan in Oisterwijk (postcode 5063)
+Moergestel	2647	5066	Oisterwijk	Noord-Brabant
+Oisterwijk	2646	5061-5063	Oisterwijk	Noord-Brabant
+-	2958		Oosterhout	Noord-Brabant	woonplaatscode Den Hout hernummerd van 2958 in 3595
+-	2956		Oosterhout	Noord-Brabant	woonplaatscode Oosterhout hernummerd van 2956 in 3596
+Den Hout	3595	4911	Oosterhout	Noord-Brabant	woonplaatscode Den Hout hernummerd van 2958 in 3595
+Dorst	2959	4849	Oosterhout	Noord-Brabant
+Oosteind	2957	4909	Oosterhout	Noord-Brabant
+Oosterhout	3596	4901-4908	Oosterhout	Noord-Brabant	woonplaatscode Oosterhout hernummerd van 2956 in 3596
+-	3258		Oss	Noord-Brabant	Woonplaatscode 3258 was toegekend aan 'Koolwijk' en is inmiddels ingetrokken. Koolwijk is nu zonder woonplaatscode.
+-	2747		Oss	Noord-Brabant	vervallen woonplaatscode voor Geffen; de actuele code voor Geffen is 3610
+Berghem	3250	5351	Oss	Noord-Brabant
+Demen	3260	5354	Oss	Noord-Brabant
+Deursen-Dennenburg	3256	5352	Oss	Noord-Brabant
+Dieden	3259	5353	Oss	Noord-Brabant
+Geffen	3610	5386	Oss	Noord-Brabant	woonplaatscode Geffen hernummerd van 2747 (destijds in voormalige gemeente Maasdonk) in 3610
+Haren	3253	5368	Oss	Noord-Brabant
+Herpen	3255	5373	Oss	Noord-Brabant
+Huisseling	3257	5358	Oss	Noord-Brabant
+Keent	3264	5359	Oss	Noord-Brabant
+Lith	3468	5397	Oss	Noord-Brabant
+Lithoijen	3469	5396	Oss	Noord-Brabant
+Macharen	3252	5367	Oss	Noord-Brabant
+Maren-Kessel	3471	5398	Oss	Noord-Brabant
+Megen	3251	5366	Oss	Noord-Brabant
+Neerlangel	3261	5355	Oss	Noord-Brabant
+Neerloon	3262	5356	Oss	Noord-Brabant
+Oijen	3470	5394	Oss	Noord-Brabant
+Oss	3249	5341-5349	Oss	Noord-Brabant
+Overlangel	3263	5357	Oss	Noord-Brabant
+Ravenstein	3254	5371	Oss	Noord-Brabant
+Teeffelen	3472	5395	Oss	Noord-Brabant
+Hooge Mierde	1874	5095	Reusel-De Mierden	Noord-Brabant
+Hulsel	1875	5096	Reusel-De Mierden	Noord-Brabant
+Lage Mierde	1876	5094	Reusel-De Mierden	Noord-Brabant
+Reusel	1877	5541	Reusel-De Mierden	Noord-Brabant
+Heerle	1590	4726	Roosendaal	Noord-Brabant
+Moerstraten	1593	4727	Roosendaal	Noord-Brabant
+Nispen	1591	4709	Roosendaal	Noord-Brabant
+Roosendaal	1588	4701-4708	Roosendaal	Noord-Brabant
+Wouw	1589	4724	Roosendaal	Noord-Brabant
+Wouwse Plantage	1592	4725	Roosendaal	Noord-Brabant
+Rucphen	2581	4715	Rucphen	Noord-Brabant
+Schijf	2582	4721-4722	Rucphen	Noord-Brabant
+Sprundel	2583	4714	Rucphen	Noord-Brabant
+St. Willebrord	2584	4711	Rucphen	Noord-Brabant	Woonplaatscode 2584 was aanvankelijk toegekend aan 'Sint Willebrord', inmiddels, in overeenstemming met het blauwe bebouwde-kombord, aan 'St. Willebrord'. Daarom zijn beide spellingen vermeld.
+Zegge	2585	4735	Rucphen	Noord-Brabant
+Landhorst	2080	5445	Sint Anthonis	Noord-Brabant
+Ledeacker	2081	5846	Sint Anthonis	Noord-Brabant
+Oploo	2082	5841	Sint Anthonis	Noord-Brabant
+Rijkevoort-De Walsert	2087	5449	Sint Anthonis	Noord-Brabant
+Sint Anthonis	2083	5845	Sint Anthonis	Noord-Brabant
+Stevensbeek	2084	5844	Sint Anthonis	Noord-Brabant
+Wanroij	2085	5446	Sint Anthonis	Noord-Brabant
+Westerbeek	2086	5843	Sint Anthonis	Noord-Brabant
+Berlicum	2057	5258	Sint-Michielsgestel	Noord-Brabant
+Den Dungen	2058	5275	Sint-Michielsgestel	Noord-Brabant
+Gemonde	2059	5291-5294	Sint-Michielsgestel	Noord-Brabant
+Sint-Michielsgestel	2060	5271-5272	Sint-Michielsgestel	Noord-Brabant
+Lierop	2746	5715	Someren	Noord-Brabant
+Someren	2745	5711-5712	Someren	Noord-Brabant
+-	2599		Son en Breugel	Noord-Brabant	Per 4-5-2016 vervallen woonplaatscode voor Son; het actuele nummer voor Son en Breugel is 3520.
+-	2600		Son en Breugel	Noord-Brabant	Per 4-5-2016 vervallen woonplaatscode voor Breugel; het actuele nummer voor Son en Breugel is 3520.
+Son en Breugel	3520	5691-5694	Son en Breugel	Noord-Brabant	Nieuwe woonplaatscode 3520 voor de ongedeelde plaats 'Son en Breugel' per 4-5-2016; voorheen 2599 voor de oude kern Son en 2600 voor de oude kern Breugel
+De Heen	1401	4655	Steenbergen	Noord-Brabant
+Dinteloord	1402	4671	Steenbergen	Noord-Brabant
+Kruisland	1403	4756	Steenbergen	Noord-Brabant
+Nieuw-Vossemeer	1404	4681	Steenbergen	Noord-Brabant
+Steenbergen	1405	4651-4652	Steenbergen	Noord-Brabant
+Berkel-Enschot	1044	5056-5057	Tilburg	Noord-Brabant
+Biezenmortel	1425	5074	Tilburg	Noord-Brabant
+Tilburg	1043	5011-5049	Tilburg	Noord-Brabant	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Udenhout	1045	5071	Tilburg	Noord-Brabant
+Odiliapeel	1849	5409	Uden	Noord-Brabant
+Uden	1847	5401-5406	Uden	Noord-Brabant
+Volkel	1848	5408	Uden	Noord-Brabant
+Valkenswaard	1100	5551-5556	Valkenswaard	Noord-Brabant
+Veldhoven	1384	5501-5509	Veldhoven	Noord-Brabant
+Cromvoirt	1620	5266	Vught	Noord-Brabant
+Helvoirt	1428	5268	Vught	Noord-Brabant
+Vught	1619	5261-5264	Vught	Noord-Brabant
+Waalre	1006	5581-5583	Waalre	Noord-Brabant
+Sprang-Capelle	2596	5161	Waalwijk	Noord-Brabant	Dit is de gecombineerde plaatsnaam (tot 1997 tevens gemeentenaam), in gebruik op komborden en postcode; de kernen Sprang en Capelle liggen 4 km van elkaar, met Vrijhoeve er tussenin.
+Waalwijk	2597	5141-5146	Waalwijk	Noord-Brabant
+Waspik	2598	5165	Waalwijk	Noord-Brabant
+Hoogerheide	1000	4631	Woensdrecht	Noord-Brabant
+Huijbergen	1001	4635	Woensdrecht	Noord-Brabant
+Ossendrecht	1002	4641	Woensdrecht	Noord-Brabant
+Putte	1003	4645	Woensdrecht	Noord-Brabant
+Woensdrecht	1004	4634	Woensdrecht	Noord-Brabant
+Achtmaal	3493	4885	Zundert	Noord-Brabant
+Klein Zundert	3492	4882	Zundert	Noord-Brabant
+Rijsbergen	3490	4891	Zundert	Noord-Brabant
+Wernhout	3491	4884	Zundert	Noord-Brabant
+Zundert	3489	4881	Zundert	Noord-Brabant
+Beek	1670	6191	Beek	Limburg	Postcode 6192 is opgeheven, sinds de plaats Maastricht-Airport is ingesteld, met postcode 6199.
+Maastricht-Airport	1672	6199	Beek	Limburg	Deze plaats (2 woorden met koppelteken) omvat 11 straten; in een ervan (Vliegveldweg) ligt het vliegveld Maastricht Aachen Airport (3 losse woorden).
+Spaubeek	1671	6176	Beek	Limburg
+Amstenrade	2099	6436	Beekdaelen	Limburg
+Bingelrade	2845	6456	Beekdaelen	Limburg
+Doenrade	2100	6439	Beekdaelen	Limburg
+Hulsberg	2359	6336	Beekdaelen	Limburg
+Jabeek	2846	6454	Beekdaelen	Limburg
+Merkelbeek	2847	6447	Beekdaelen	Limburg
+Nuth	2358	6361	Beekdaelen	Limburg
+Oirsbeek	2101	6438	Beekdaelen	Limburg
+Puth	2102	6155	Beekdaelen	Limburg
+Schimmert	2360	6333	Beekdaelen	Limburg
+Schinnen	2103	6365	Beekdaelen	Limburg
+Schinveld	2848	6451	Beekdaelen	Limburg
+Sweikhuizen	2104	6174	Beekdaelen	Limburg
+Wijnandsrade	2361	6363	Beekdaelen	Limburg
+Beesel	1950	5954	Beesel	Limburg
+Reuver	1949	5953	Beesel	Limburg
+Afferden L	1122	5851	Bergen	Limburg	Het Kadaster (en daarmee ook de postcode) heeft de aanvankelijke spelling 'Afferden' gewijzigd in 'Afferden L'.
+Bergen L	1121	5854	Bergen	Limburg	Het Kadaster (en daarmee ook de postcode) heeft de aanvankelijke spelling 'Bergen' gewijzigd in 'Bergen L'.
+Siebengewald	1123	5853	Bergen	Limburg
+Well L	1124	5855	Bergen	Limburg	Het Kadaster (en daarmee ook de postcode) heeft de aanvankelijke spelling 'Well' gewijzigd in 'Well L' (nu dus drie letters l).
+Wellerlooi	1125	5856	Bergen	Limburg
+Brunssum	2849	6441-6446	Brunssum	Limburg
+Echt	2041	6101-6102	Echt-Susteren	Limburg
+Koningsbosch	2042	6104	Echt-Susteren	Limburg
+Maria Hoop	2043	6105	Echt-Susteren	Limburg
+Nieuwstadt	2047	6118	Echt-Susteren	Limburg
+Roosteren	2046	6116	Echt-Susteren	Limburg
+Sint Joost	2044	6111-6112	Echt-Susteren	Limburg
+Susteren	2045	6114	Echt-Susteren	Limburg
+Banholt	1690	6262	Eijsden-Margraten	Limburg
+Bemelen	1691	6268	Eijsden-Margraten	Limburg
+Cadier en Keer	1692	6267	Eijsden-Margraten	Limburg
+Eckelrade	1693	6251-6252	Eijsden-Margraten	Limburg
+Eijsden	1700	6245	Eijsden-Margraten	Limburg
+Gronsveld	1701	6247	Eijsden-Margraten	Limburg
+Margraten	1694	6269	Eijsden-Margraten	Limburg
+Mheer	1695	6261	Eijsden-Margraten	Limburg
+Noorbeek	1696	6255	Eijsden-Margraten	Limburg
+Scheulder	1697	6307	Eijsden-Margraten	Limburg
+Sint Geertruid	1698	6265	Eijsden-Margraten	Limburg
+Gennep	2482	6591	Gennep	Limburg
+Heijen	2483	6598	Gennep	Limburg
+Milsbeek	2479	6596	Gennep	Limburg
+Ottersum	2480	6595	Gennep	Limburg
+Ven-Zelderheide	2481	6599	Gennep	Limburg
+Beutenaken	1230	6278	Gulpen-Wittem	Limburg
+Elkenrade	1235	6289	Gulpen-Wittem	Limburg
+Epen	1232	6285	Gulpen-Wittem	Limburg
+Eys	1234	6287	Gulpen-Wittem	Limburg
+Gulpen	1225	6271	Gulpen-Wittem	Limburg
+Heijenrath	1228	6276	Gulpen-Wittem	Limburg
+Ingber	1226	6273	Gulpen-Wittem	Limburg
+Mechelen	1231	6281	Gulpen-Wittem	Limburg
+Reijmerstok	1227	6274	Gulpen-Wittem	Limburg
+Slenaken	1229	6277	Gulpen-Wittem	Limburg
+Wijlre	1236	6321	Gulpen-Wittem	Limburg
+Wittem	1233	6286	Gulpen-Wittem	Limburg
+Heerlen	1312	6411-6422	Heerlen	Limburg	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Hoensbroek	1313	6431-6433	Heerlen	Limburg
+America	1026	5966	Horst aan de Maas	Limburg
+Broekhuizen	1027	5872	Horst aan de Maas	Limburg
+Broekhuizenvorst	1028	5871	Horst aan de Maas	Limburg
+Evertsoord	1517	5977	Horst aan de Maas	Limburg
+Griendtsveen	1029	5766	Horst aan de Maas	Limburg
+Grubbenvorst	1030	5971	Horst aan de Maas	Limburg
+Hegelsom	1031	5963	Horst aan de Maas	Limburg
+Horst	1032	5961	Horst aan de Maas	Limburg
+Kronenberg	1516	5976	Horst aan de Maas	Limburg
+Lottum	1033	5973	Horst aan de Maas	Limburg
+Meerlo	1858	5864	Horst aan de Maas	Limburg
+Melderslo	1034	5962	Horst aan de Maas	Limburg
+Meterik	1035	5964	Horst aan de Maas	Limburg
+Sevenum	1515	5975	Horst aan de Maas	Limburg
+Swolgen	1859	5866	Horst aan de Maas	Limburg
+Tienray	1860	5865	Horst aan de Maas	Limburg
+Eygelshoven	2650	6471	Kerkrade	Limburg
+Kerkrade	2649	6461-6469	Kerkrade	Limburg
+Landgraaf	3055	6371-6374	Landgraaf	Limburg	De dorpen van de drie voormalige gemeenten Schaesberg, Nieuwenhagen en Ubach over Worms worden sedert de fusie als wijken van de ene plaats Landgraaf beschouwd.
+Baexem	2940	6095	Leudal	Limburg
+Buggenum	2941	6082	Leudal	Limburg
+Ell	2942	6011	Leudal	Limburg
+Grathem	2943	6096	Leudal	Limburg
+Haelen	2944	6081	Leudal	Limburg
+Haler	2945	6012	Leudal	Limburg
+Heibloem	2946	6089	Leudal	Limburg
+Heythuysen	2947	6093	Leudal	Limburg
+Horn	2948	6085	Leudal	Limburg
+Hunsel	2949	6013	Leudal	Limburg
+Ittervoort	2950	6014	Leudal	Limburg
+Kelpen-Oler	2951	6037	Leudal	Limburg
+Neer	2952	6086	Leudal	Limburg
+Neeritter	2953	6015	Leudal	Limburg
+Nunhem	2954	6083	Leudal	Limburg
+Roggel	2955	6088	Leudal	Limburg
+Beegden	1918	6099	Maasgouw	Limburg
+Heel	1917	6097	Maasgouw	Limburg
+Linne	1921	6067	Maasgouw	Limburg
+Maasbracht	1920	6051	Maasgouw	Limburg
+Ohé en Laak	1923	6109	Maasgouw	Limburg	Deze plaats Ohé en Laak is genoemd naar zijn twee kernen: Ohé (een oostelijk gelegen wijk) en Laak (een westelijk gelegen wijk).
+Stevensweert	1922	6107	Maasgouw	Limburg
+Thorn	1916	6017	Maasgouw	Limburg
+Wessem	1919	6019	Maasgouw	Limburg
+Maastricht	1406	6211-6229	Maastricht	Limburg	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Bunde	1461	6241	Meerssen	Limburg
+Geulle	1462	6243	Meerssen	Limburg
+Meerssen	1463	6231	Meerssen	Limburg
+Moorveld	1464	6237	Meerssen	Limburg
+Ulestraten	1465	6235	Meerssen	Limburg
+Middelaar	2801	6587	Mook en Middelaar	Limburg
+Molenhoek	2802	6584	Mook en Middelaar	Limburg	Deze Molenhoek ligt voor een klein deel in de Gelderse buurgemeente Heumen (postcode 6582). Overigens ligt een tweede Molenhoek (postcode 6612) wel geheel in die Gelderse gemeente Heumen.
+Mook	2803	6585	Mook en Middelaar	Limburg
+Plasmolen	2804	6586	Mook en Middelaar	Limburg
+Leveroy	2040	6091-6092	Nederweert	Limburg
+Nederweert	2037	6031	Nederweert	Limburg
+Nederweert-Eind	2039	6034	Nederweert	Limburg	Deze plaats wordt ook als 'Eind' aangegeven.
+Ospel	2038	6035	Nederweert	Limburg
+Baarlo	2602	5991	Peel en Maas	Limburg
+Beringe	3438	5986	Peel en Maas	Limburg
+Egchel	3439	5987	Peel en Maas	Limburg
+Grashoek	3440	5985	Peel en Maas	Limburg
+Helden	3441	5988	Peel en Maas	Limburg
+Kessel	1699	5995	Peel en Maas	Limburg
+Koningslust	3442	5984	Peel en Maas	Limburg
+Maasbree	2601	5993	Peel en Maas	Limburg
+Meijel	2140	5768	Peel en Maas	Limburg
+Panningen	3443	5981	Peel en Maas	Limburg
+Herkenbosch	2590	6075	Roerdalen	Limburg
+Melick	2591	6074	Roerdalen	Limburg
+Montfort	2592	6065	Roerdalen	Limburg
+Posterholt	2593	6061	Roerdalen	Limburg
+Sint Odiliënberg	2594	6077	Roerdalen	Limburg
+Vlodrop	2595	6063	Roerdalen	Limburg
+Herten	2282	6049	Roermond	Limburg
+Roermond	2281	6041-6045	Roermond	Limburg
+Swalmen	2283	6071	Roermond	Limburg
+Baneheide	3067	6353	Simpelveld	Limburg
+Bocholtz	3066	6351	Simpelveld	Limburg
+Simpelveld	3065	6369	Simpelveld	Limburg
+-	2819		Sittard-Geleen	Limburg	vervallen woonplaatscode voor Sittard; de actuele code voor Sittard is 3512
+-	2811		Sittard-Geleen	Limburg	vervallen woonplaatscode voor Geleen; de actuele code voor Geleen is 3513
+Born	2808	6121	Sittard-Geleen	Limburg
+Buchten	2809	6122	Sittard-Geleen	Limburg
+Einighausen	2810	6142	Sittard-Geleen	Limburg
+Geleen	3513	6161-6167	Sittard-Geleen	Limburg
+Grevenbicht	2812	6127	Sittard-Geleen	Limburg
+Guttecoven	2813	6143	Sittard-Geleen	Limburg
+Holtum	2814	6123	Sittard-Geleen	Limburg
+Limbricht	2815	6141	Sittard-Geleen	Limburg
+Munstergeleen	2816	6151	Sittard-Geleen	Limburg
+Obbicht	2817	6125	Sittard-Geleen	Limburg
+Papenhoven	2818	6124	Sittard-Geleen	Limburg
+Sittard	3512	6131-6137	Sittard-Geleen	Limburg
+Windraak	2820	6153	Sittard-Geleen	Limburg
+Elsloo	1914	6181	Stein	Limburg	In dit geval (anders dan bij bv. Afferden) zijn er twee verschillende woonplaatsen met deze naam, zonder dat de basisadministratie een provincieafkorting heeft toegevoegd ter onderscheiding.
+Stein	1913	6171	Stein	Limburg
+Urmond	1915	6129	Stein	Limburg
+Lemiers	1430	6295	Vaals	Limburg
+Vaals	1429	6291	Vaals	Limburg
+Vijlen	1431	6294	Vaals	Limburg
+Berg en Terblijt	1716	6325	Valkenburg aan de Geul	Limburg
+Schin op Geul	1717	6305	Valkenburg aan de Geul	Limburg
+Valkenburg	1718	6301	Valkenburg aan de Geul	Limburg
+Walem	1719	6341-6342	Valkenburg aan de Geul	Limburg
+Arcen	3140	5944	Venlo	Limburg
+Belfeld	1476	5951	Venlo	Limburg
+Lomm	3141	5943	Venlo	Limburg
+Steyl	1475	5935	Venlo	Limburg	woonplaats met code 1475 werd aanvankelijk gespeld 'Steijl', maar werd alsnog gecorrigeerd in 'Steyl'
+Tegelen	1474	5931-5932	Venlo	Limburg
+Velden	3142	5941	Venlo	Limburg
+Venlo	1473	5911-5928	Venlo	Limburg	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+-	2333		Venray	Limburg	vervallen woonplaatscode voor Oostrum; de actuele code voor Oostrum is 3605
+-	2332		Venray	Limburg	vervallen woonplaatscode voor Oirlo; de actuele code voor Oirlo is 3604
+Blitterswijck	1856	5863	Venray	Limburg
+Castenray	2328	5811	Venray	Limburg
+Geijsteren	1857	5862	Venray	Limburg
+Heide	2329	5812	Venray	Limburg
+Leunen	2330	5809	Venray	Limburg
+Merselo	2331	5815	Venray	Limburg
+Oirlo	3604	5808	Venray	Limburg
+Oostrum	3605	5807	Venray	Limburg
+Smakt	2334	5817	Venray	Limburg
+Venray	2335	5801-5804	Venray	Limburg
+Veulen	2336	5814	Venray	Limburg
+Vredepeel	2337	5816	Venray	Limburg
+Wanssum	1861	5861	Venray	Limburg
+Ysselsteyn	2338	5813	Venray	Limburg
+Klimmen	1853	6343	Voerendaal	Limburg
+Ransdaal	1854	6311-6312	Voerendaal	Limburg
+Voerendaal	1855	6367	Voerendaal	Limburg
+Stramproy	1975	6039	Weert	Limburg
+Weert	1974	6001-6006	Weert	Limburg
+'t Zandt	3458	9915	Eemsdelta	Groningen
+Appingedam	3386	9901-9903	Eemsdelta	Groningen
+Bierum	3232	9906	Eemsdelta	Groningen
+Borgsweer	3233	9949	Eemsdelta	Groningen
+Delfzijl	3234	9931-9934	Eemsdelta	Groningen
+Eenum	3444	9913	Eemsdelta	Groningen
+Farmsum	3235	9936	Eemsdelta	Groningen
+Garrelsweer	3445	9918	Eemsdelta	Groningen
+Garsthuizen	3446	9923	Eemsdelta	Groningen
+Godlinze	3236	9908	Eemsdelta	Groningen
+Holwierde	3237	9905	Eemsdelta	Groningen
+Huizinge	3447	9992	Eemsdelta	Groningen
+Krewerd	3238	9904	Eemsdelta	Groningen
+Leermens	3448	9912	Eemsdelta	Groningen
+Loppersum	3449	9919	Eemsdelta	Groningen
+Losdorp	3239	9907	Eemsdelta	Groningen
+Meedhuizen	3240	9937	Eemsdelta	Groningen
+Middelstum	3450	9991	Eemsdelta	Groningen
+Oosterwijtwerd	3451	9911	Eemsdelta	Groningen
+Spijk Gn	3241	9909	Eemsdelta	Groningen	Woonplaatscode 3241 niet langer is toegekend aan 'Spijk', maar aan 'Spijk Gn'.
+Startenhuizen	3452	9924	Eemsdelta	Groningen	ten zuidoosten van de Eemshavenweg (Karshofweg 1-17 en 2; Huizingerweg 2). Ten noorden van die weg ligt in gemeente Het Hogeland een ander deel van deze plaats (postcode 9925).
+Stedum	3453	9921	Eemsdelta	Groningen
+Termunten	3242	9947	Eemsdelta	Groningen
+Termunterzijl	3243	9948	Eemsdelta	Groningen
+Toornwerd	3454	9994	Eemsdelta	Groningen
+Wagenborgen	3244	9945	Eemsdelta	Groningen
+Westeremden	3455	9922	Eemsdelta	Groningen
+Westerwijtwerd	3456	9993	Eemsdelta	Groningen
+Wirdum Gn	3457	9917	Eemsdelta	Groningen	Het Kadaster (en daarmee ook de postcode) heeft de spelling van 'Wirdum' gewijzigd in 'Wirdum Gn'.
+Woldendorp	3245	9946	Eemsdelta	Groningen
+Zeerijp	3459	9914	Eemsdelta	Groningen
+Zijldijk	3460	9987	Eemsdelta	Groningen
+Garmerwolde	1831	9798	Groningen	Groningen
+Glimmen	1267	9756	Groningen	Groningen
+Groningen	1070	9711-9747	Groningen	Groningen	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Haren	1266	9751-9753	Groningen	Groningen
+Harkstede GN	3635	9614	Groningen	Groningen	Per 1-1-2017 is dit gebied tussen Meerstad en Harkstede (1778 ha, 250 inwoners) overgegaan van Slochteren (destijds met postcode 9617) naar Groningen (met nieuwe postcode 9614).
+Lageland GN	3636	9622	Groningen	Groningen	Per 1-1-2017 is dit gebied tussen Meerstad en Lageland (1778 ha, 250 inwoners) overgegaan van Slochteren naar Groningen (destijds met postcode 9623) naar Groningen (met nieuwe postcode 9622).
+Lellens	1835	9794	Groningen	Groningen
+Meerstad	3488	9613	Groningen	Groningen	Meerstad (Klein-Harkstede, westelijk deel van Harkstede) en een deel van Lageland zijn door een grenswijziging per 1-1-2017 overgegaan van de gemeente Slochteren naar de gemeente Groningen.
+Noordlaren	1268	9479	Groningen	Groningen
+Onnen	1269	9755	Groningen	Groningen
+Sint Annen	1834	9796	Groningen	Groningen
+Ten Boer	1829	9791	Groningen	Groningen
+Ten Post	1830	9792	Groningen	Groningen
+Thesinge	1832	9797	Groningen	Groningen
+Winneweer	1836	9793	Groningen	Groningen
+Woltersum	1833	9795	Groningen	Groningen
+Adorp	2464	9774	Het Hogeland	Groningen
+Baflo	2465	9953	Het Hogeland	Groningen
+Bedum	2829	9781	Het Hogeland	Groningen
+Den Andel	2466	9956	Het Hogeland	Groningen
+Eemshaven	3473	9979	Het Hogeland	Groningen
+Eenrum	3415	9967	Het Hogeland	Groningen
+Eppenhuizen	3474	9996	Het Hogeland	Groningen
+Hornhuizen	3416	9978	Het Hogeland	Groningen
+Houwerzijl	3417	9973	Het Hogeland	Groningen
+Kantens	3475	9995	Het Hogeland	Groningen
+Kloosterburen	3418	9977	Het Hogeland	Groningen
+Lauwersoog	3419	9976	Het Hogeland	Groningen
+Leens	3420	9965	Het Hogeland	Groningen
+Mensingeweer	3421	9961	Het Hogeland	Groningen
+Niekerk	3422	9972	Het Hogeland	Groningen
+Noordwolde	2830	9784	Het Hogeland	Groningen
+Oldenzijl	3476	9986	Het Hogeland	Groningen
+Onderdendam	2831	9959	Het Hogeland	Groningen
+Oosternieland	3477	9985	Het Hogeland	Groningen
+Oudeschip	3478	9984	Het Hogeland	Groningen
+Pieterburen	3423	9968	Het Hogeland	Groningen
+Rasquert	2470	9955	Het Hogeland	Groningen
+Roodeschool	3479	9983	Het Hogeland	Groningen
+Rottum	3480	9998	Het Hogeland	Groningen
+Saaxumhuizen	2471	9957	Het Hogeland	Groningen
+Sauwerd	2472	9771	Het Hogeland	Groningen
+Schouwerzijl	3424	9962	Het Hogeland	Groningen
+Startenhuizen	3481	9925	Het Hogeland	Groningen	postcode 9924: ten zuidoosten van de Eemshavenweg nabij Garsthuizen (in gemeente Loppersum); postcode 9925: ten noordwesten van de Eemshavenweg, omgeving Wilkemaweg (in gemeente Het Hogeland)
+Stitswerd	3482	9999	Het Hogeland	Groningen
+Tinallinge	2473	9954	Het Hogeland	Groningen
+Uithuizen	3483	9981	Het Hogeland	Groningen
+Uithuizermeeden	3484	9982	Het Hogeland	Groningen
+Ulrum	3425	9971	Het Hogeland	Groningen
+Usquert	3485	9988	Het Hogeland	Groningen
+Vierhuizen	3426	9975	Het Hogeland	Groningen
+Warffum	3486	9989	Het Hogeland	Groningen
+Warfhuizen	3427	9963	Het Hogeland	Groningen
+Wehe-den Hoorn	3428	9964	Het Hogeland	Groningen	kombord spelt: Wehe den Hoorn.
+Westernieland	3429	9969	Het Hogeland	Groningen
+Wetsinge	2474	9773	Het Hogeland	Groningen
+Winsum	2475	9951	Het Hogeland	Groningen
+Zandeweer	3487	9997	Het Hogeland	Groningen
+Zoutkamp	3430	9974	Het Hogeland	Groningen
+Zuidwolde	2832	9785	Het Hogeland	Groningen
+Zuurdijk	3431	9966	Het Hogeland	Groningen
+Borgercompagnie	2275	9632	Midden-Groningen	Groningen	Dit is Borgercompagnie-noord (Borgercompagnieweg van 31/44 tot 65/78). Gelijknamig en aangrenzend Borgercompagnie (postcode 9631, woonplaatscode 1242) ligt in buurgemeente Veendam.
+Foxhol	1017	9607	Midden-Groningen	Groningen
+Froombosch	1348	9619	Midden-Groningen	Groningen
+Harkstede	1349	9617	Midden-Groningen	Groningen
+Hellum	1350	9627	Midden-Groningen	Groningen
+Hoogezand	1018	9601-9603	Midden-Groningen	Groningen
+Kiel-Windeweer	1019	9605	Midden-Groningen	Groningen
+Kolham	1351	9615	Midden-Groningen	Groningen
+Kropswolde	1020	9606	Midden-Groningen	Groningen
+Lageland	1352	9623	Midden-Groningen	Groningen
+Luddeweer	1353	9624	Midden-Groningen	Groningen
+Meeden	2277	9651	Midden-Groningen	Groningen
+Muntendam	2278	9649	Midden-Groningen	Groningen
+Noordbroek	2279	9635	Midden-Groningen	Groningen
+Overschild	1354	9625	Midden-Groningen	Groningen
+Sappemeer	1021	9611	Midden-Groningen	Groningen
+Scharmer	1355	9616	Midden-Groningen	Groningen
+Schildwolde	1356	9626	Midden-Groningen	Groningen
+Siddeburen	1357	9628	Midden-Groningen	Groningen
+Slochteren	1358	9621	Midden-Groningen	Groningen
+Steendam	1359	9629	Midden-Groningen	Groningen
+Tjuchem	1360	9939	Midden-Groningen	Groningen
+Tripscompagnie	2276	9633	Midden-Groningen	Groningen	Tripscompagnieweg t/m nr. 69
+Waterhuizen	1022	9609	Midden-Groningen	Groningen
+Westerbroek	1023	9608	Midden-Groningen	Groningen
+Woudbloem	1361	9618	Midden-Groningen	Groningen
+Zuidbroek	2280	9636	Midden-Groningen	Groningen
+'t Waar	1895	9942	Oldambt	Groningen	2 straten: Hoofdweg, Molenlaan
+-	1424		Oldambt	Groningen	Woonplaatscodenummers 1424, 1472, 1901 en 3319 zijn vervallen voor 'Blauwestad'; het actuele nummer voor 'Blauwestad' is 3509.
+-	1472		Oldambt	Groningen	Woonplaatscodenumemrs 1424, 1472, 1901 en 3319 zijn vervallen voor 'Blauwestad'; het actuele nummer voor 'Blauwestad' is 3509.
+-	1901		Oldambt	Groningen	Woonplaatscodenummers 1424, 1472, 1901 en 3319 zijn vervallen voor 'Blauwestad'; het actuele nummer voor 'Blauwestad' is 3509.
+-	3319		Oldambt	Groningen	Woonplaatscodenummers 1424, 1472, 1901 en 3319 zijn vervallen voor 'Blauwestad'; het actuele nummer voor 'Blauwestad' is 3509.
+-	1418		Oldambt	Groningen	vervallen woonplaatscode voor Beerta; de actuele code voor Beerta is 3508
+Bad Nieuweschans	1420	9693	Oldambt	Groningen	Circa 2009 is de plaatsnaam Nieuweschans gewijzigd in Bad Nieuweschans.
+Beerta	3508	9686	Oldambt	Groningen
+Blauwestad	3509	9685	Oldambt	Groningen	Aanvankelijk waren 1424, 1472, 1901 en 3319 de Woonplaatscodenummers voor (vier delen van) 'Blauwestad'; het actuele nummer voor (heel) 'Blauwestad' is 3509.
+Drieborg	1422	9688	Oldambt	Groningen
+Finsterwolde	1419	9684	Oldambt	Groningen
+Heiligerlee	1899	9677	Oldambt	Groningen
+Midwolda	1897	9681	Oldambt	Groningen
+Nieuw Beerta	1421	9687	Oldambt	Groningen
+Nieuw Scheemda	1894	9943	Oldambt	Groningen
+Nieuwolda	1896	9944	Oldambt	Groningen
+Oostwold	1898	9682	Oldambt	Groningen
+Oudezijl	1423	9691	Oldambt	Groningen
+Scheemda	1893	9679	Oldambt	Groningen
+Westerlee	1900	9678	Oldambt	Groningen
+Winschoten	1471	9671-9675	Oldambt	Groningen
+Nieuwe Pekela	1398	9663	Pekela	Groningen
+Oude Pekela	1397	9665	Pekela	Groningen
+Alteveer	3079	9661	Stadskanaal	Groningen	Merk op dat in de Drentse gemeenten Noordenveld en in De Wolden er gelijkgespelde woonplaatsen 'Alteveer' zijn. In een derde Drentse gemeente Hoogeveen is er 'Alteveer gem Hoogeveen'.
+Mussel	3077	9584	Stadskanaal	Groningen
+Musselkanaal	3075	9581	Stadskanaal	Groningen
+Onstwedde	3076	9591	Stadskanaal	Groningen
+Stadskanaal	3074	9501-9503	Stadskanaal	Groningen
+Vledderveen	3078	9585	Stadskanaal	Groningen
+Borgercompagnie	1242	9631	Veendam	Groningen	Borgercompagnie-centrum (Borgercompagnieweg voorbij 65/78); Tripscompagnieweg voorbij nr. 69. Gelijknamig Borgercompagnie (postcode 9632, woonplaatscode 2275) ligt in buurgemeente Midden-Groningen.
+Veendam	1240	9641-9646	Veendam	Groningen	Veendam-centrum en -oost postcode 9641; Veendam-centrum/zuidwest postcode 9642; Veendam-noord postcode 9645; Veendam-noordwest postcode 9646
+Wildervank	1241	9648	Veendam	Groningen
+-	2339		Westerkwartier	Groningen	Code 2339 is ingetrokken voor deze plaats 'Boerakker' in deze gemeente. Voor het andere 'Boerakker' is code 2259 gehandhaafd.
+Aduard	2114	9831	Westerkwartier	Groningen
+Boerakker	2259	9359-9362	Westerkwartier	Groningen	postcode 9359: Boerakkerse deel van vroegere gemeente Leek: Dijkweg 1-7 en 2-4; Bakkerom 17; De Jammer 1-5; overige huisnummers vallen onder postcodes 9361 en 9362 in vroegere gemeente Marum.
+Briltil	2115	9805	Westerkwartier	Groningen
+De Wilp	2260	9367	Westerkwartier	Groningen
+Den Ham	2116	9833	Westerkwartier	Groningen
+Den Horn	2117	9832	Westerkwartier	Groningen
+Doezum	2174	9863	Westerkwartier	Groningen
+Enumatil	2340	9811-9812	Westerkwartier	Groningen
+Ezinge	2467	9891	Westerkwartier	Groningen
+Feerwerd	2468	9892	Westerkwartier	Groningen
+Garnwerd	2469	9893	Westerkwartier	Groningen
+Grijpskerk	2118	9843	Westerkwartier	Groningen
+Grootegast	2175	9861	Westerkwartier	Groningen
+Jonkersvaart	2261	9366	Westerkwartier	Groningen
+Kommerzijl	2119	9881-9882	Westerkwartier	Groningen
+Kornhorn	2176	9864	Westerkwartier	Groningen
+Lauwerzijl	2120	9885	Westerkwartier	Groningen
+Leek	2341	9351	Westerkwartier	Groningen
+Lettelbert	2342	9827	Westerkwartier	Groningen
+Lucaswolde	2262	9825	Westerkwartier	Groningen
+Lutjegast	2177	9866	Westerkwartier	Groningen
+Marum	2263	9363	Westerkwartier	Groningen
+Midwolde	2343	9355	Westerkwartier	Groningen
+Niebert	2264	9365	Westerkwartier	Groningen
+Niehove	2121	9884	Westerkwartier	Groningen
+Niekerk	2178	9822	Westerkwartier	Groningen
+Niezijl	2122	9841-9842	Westerkwartier	Groningen
+Noordhorn	2123	9804	Westerkwartier	Groningen
+Noordwijk	2265	9824	Westerkwartier	Groningen
+Nuis	2266	9364	Westerkwartier	Groningen
+Oldehove	2124	9883	Westerkwartier	Groningen
+Oldekerk	2179	9821	Westerkwartier	Groningen
+Oostwold	2344	9828	Westerkwartier	Groningen
+Opende	2180	9865	Westerkwartier	Groningen
+Pieterzijl	2125	9844	Westerkwartier	Groningen
+Saaksum	2126	9886	Westerkwartier	Groningen
+Sebaldeburen	2181	9862	Westerkwartier	Groningen
+Tolbert	2345	9356	Westerkwartier	Groningen
+Visvliet	2127	9845	Westerkwartier	Groningen
+Zevenhuizen	2346	9354	Westerkwartier	Groningen
+Zuidhorn	2128	9801	Westerkwartier	Groningen
+Bellingwolde	2231	9695	Westerwolde	Groningen
+Blijham	2232	9697	Westerwolde	Groningen
+Bourtange	2294	9545	Westerwolde	Groningen
+Oudeschans	2233	9696	Westerwolde	Groningen
+Sellingen	2295	9551	Westerwolde	Groningen
+Ter Apel	2296	9561	Westerwolde	Groningen
+Ter Apelkanaal	2297	9563	Westerwolde	Groningen
+Veelerveen	2234	9566	Westerwolde	Groningen
+Vlagtwedde	2298	9541	Westerwolde	Groningen
+Vriescheloo	2235	9699	Westerwolde	Groningen
+Wedde	2236	9698	Westerwolde	Groningen
+Augustinusga	3173	9284	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Stynsgea.
+Boelenslaan	3174	9233	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Boelensloane.
+Buitenpost	3175	9285	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Bûtenpost.
+Drogeham	3176	9289	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Droegeham.
+Gerkesklooster	3177	9873	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Gerkeskleaster.
+Harkema	3178	9281	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Harkema.
+Kootstertille	3179	9288	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Koatstertille.
+Stroobos	3180	9871-9872	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Strobos.
+Surhuisterveen	3181	9231	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Surhústerfean.
+Surhuizum	3182	9283	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Surhuzum.
+Twijzel	3183	9286	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Twizel.
+Twijzelerheide	3184	9287	Achtkarspelen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Twizelerheide.
+Ballum	2587	9162	Ameland	Fryslân / Friesland
+Buren	2589	9164	Ameland	Fryslân / Friesland
+Hollum	2586	9161	Ameland	Fryslân / Friesland
+Nes	2588	9163	Ameland	Fryslân / Friesland
+Broeksterwâld	3265	9108	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Broeksterwoude.
+Damwâld	3266	9104	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Damwoude.
+De Falom	3267	9109	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: De Valom.
+De Westereen	3273	9271	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Zwaagwesteinde. Ook de oude spelling De Westerein is niet meer in gebruik.
+Driezum	3268	9114	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Driesum.
+Feanwâlden	3271	9269	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Veenwouden.
+Readtsjerk	3272	9067	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Roodkerk.
+Rinsumageast	3270	9105	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Rinsumageest.
+Sibrandahûs	3274	9106	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Sibrandahuis.
+Wâlterswâld	3269	9113	Dantumadiel	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Wouterswoude.
+-	2499		De Fryske Marren	Fryslân / Friesland	woonplaatscode Oudehaske hernummerd van 2499 (deze gemeente) in 3558 (buurgemeente Heerenveen) en daarna in 3523 (deze gemeente)
+-	2497		De Fryske Marren	Fryslân / Friesland	woonplaatscode Nijehaske hernummerd van 2497 (deze gemeente De Fryske Marren) in 3557 (buurgemeente Heerenveen) en daarna in 3521 (deze gemeente De Fryske Marren)
+Akmarijp	2484	8541	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Eagmaryp.
+Oudemirdum	1681	8567	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Aldemardum.
+Bakhuizen	1673	8574	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Bakhuzen.
+Balk	1674	8561	De Fryske Marren	Fryslân / Friesland
+Bantega	2239	8538	De Fryske Marren	Fryslân / Friesland	Otterweg / De Otterwei is een wijk ten noordwesten van Bantega
+Boornzwaag	2485	8526	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Boarnsweach.
+Broek	2486	8512	De Fryske Marren	Fryslân / Friesland	ook wel Broek-Noord genoemd
+Delfstrahuizen	2240	8508	De Fryske Marren	Fryslân / Friesland
+Dijken	2487	8528	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Diken.
+Doniaga	2488	8516	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Dunegea.
+Elahuizen	1675	8581	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Ealahuzen.
+Echten	2241	8537	De Fryske Marren	Fryslân / Friesland
+Echtenerbrug	2242	8539	De Fryske Marren	Fryslân / Friesland
+Eesterga	2243	8534	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Jistergea.
+Follega	2244	8535	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Follegea.
+Goingarijp	2489	8511	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Goaiïngaryp. De Friese spelling zonder trema op de tweede i (Goaiingaryp) is verouderd.
+Harich	1676	8571	De Fryske Marren	Fryslân / Friesland
+Haskerhorne	2491	8506	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Haskerhoarne.
+Idskenhuizen	2492	8523	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Jiskenhuzen.
+Joure	2493	8501-8503	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Jouwer.
+Kolderwolde	1677	8583	De Fryske Marren	Fryslân / Friesland
+Langweer	2494	8525	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Langwar.
+Legemeer	2495	8527	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Legemar.
+Lemmer	2245	8531-8532	De Fryske Marren	Fryslân / Friesland
+Mirns	1678	8573	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Murns.
+Nijehaske	3521	8466	De Fryske Marren	Fryslân / Friesland	woonplaatscode Nijehaske hernummerd van 2497 (deze gemeente De Fryske Marren) in 3557 (buurgemeente Heerenveen) en daarna in 3521 (deze gemeente De Fryske Marren)
+Nijemirdum	1679	8566	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Nijemardum.
+Oldeouwer	2498	8515	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Alde Ouwer.
+Oosterzee	2246	8536	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt alleen de Nederlandse versie: 'Oosterzee' met als tweede woord 'Gietersebrug'. Gietersebrug is deel van de plaatsnaam en kan als een wijk van Oosterzee worden beschouwd.
+Oudega	1680	8582	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Aldegea.
+Oudehaske	3523	8465	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als 2de plaatsnaam de Friese versie: Aldehaske. Woonplaatscode Oudehaske hernummerd van 2499 (deze gemeente) in 3558 (buurgemeente Heerenveen) en daarna in 3523 (deze gemeente).
+Ouwster-Nijega	2501	8514	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ousternijegea. Als eerste plaatsnaam wordt als twee woorden gespeld: Ouwster Nijega.
+Ouwsterhaule	2500	8513	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ousterhaule.
+Rijs	1682	8572	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Riis.
+Rohel	2502	8507	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Reahel.
+Rotstergaast	2503	8462	De Fryske Marren	Fryslân / Friesland
+Rotsterhaule	2504	8463	De Fryske Marren	Fryslân / Friesland
+Rottum	2505	8461	De Fryske Marren	Fryslân / Friesland
+Ruigahuizen	1683	8564	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Rugehuzen.
+Scharsterbrug	2506	8517	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Skarsterbrêge.
+Sint Nicolaasga	2507	8521	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Sint Nyk.
+Sintjohannesga	2508	8464	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Sint Jânsgea.
+Sloten	1684	8556	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Sleat; een van de Friese Elf Steden
+Snikzwaag	2509	8505	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Sniksweach.
+Sondel	1685	8565	De Fryske Marren	Fryslân / Friesland
+Terherne	2537	8493	De Fryske Marren	Fryslân / Friesland
+Terkaple	2510	8542	De Fryske Marren	Fryslân / Friesland
+Teroele	2511	8524	De Fryske Marren	Fryslân / Friesland
+Tjerkgaast	2512	8522	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Tsjerkgaast.
+Vegelinsoord	2513	8467	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Vegelinsoard.
+Wijckel	1686	8563	De Fryske Marren	Fryslân / Friesland	Bebouwde-kombord meldt als eerste plaatsnaam de Friese versie: Wikel.
+Harlingen	2891	8861-8862	Harlingen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Harns; een van de Friese Elf Steden
+Midlum	2892	8871-8872	Harlingen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Mullum.
+Wijnaldum	2893	8857	Harlingen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Winaem.
+-	2186		Heerenveen	Fryslân / Friesland	woonplaatscode Heerenveen hernummerd van 2186 in vermoedelijk 3559 en daarna in 3522
+-	3559		Heerenveen	Fryslân / Friesland	woonplaatscode Heerenveen hernummerd van 2186 in vermoedelijk 3559 en daarna in 3522
+-	3558		Heerenveen	Fryslân / Friesland	woonplaatscode Oudehaske hernummerd van 2499 (buurgemeente De Fryske Marren) in 3558 (deze gemeente Heerenveen) en daarna in 3523 (buurgemeente De Fryske Marren)
+-	3557		Heerenveen	Fryslân / Friesland	woonplaatscode Nijehaske hernummerd van 2497 (buurgemeente De Fryske Marren) in 3557 (deze gemeente Heerenveen) en daarna in 3521 (buurgemeente De Fryske Marren)
+Akkrum	2525	8491	Heerenveen	Fryslân / Friesland
+Aldeboarn	2532	8495	Heerenveen	Fryslân / Friesland
+Bontebok	2193	8415	Heerenveen	Fryslân / Friesland
+De Knipe	2190	8456	Heerenveen	Fryslân / Friesland
+Gersloot	2185	8457	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Gersleat.
+Haskerdijken	2490	8468	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Haskerdiken.
+Heerenveen	3522	8441-8448	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: It Hearrenfean. Woonplaatscode Heerenveen hernummerd van 2186 in vermoedelijk 3559 en daarna in 3522
+Hoornsterzwaag / Hoarnstersweach	2197	8412	Heerenveen	Fryslân / Friesland
+Jubbega	2196	8411	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Jobbegea.
+Katlijk	2192	8455	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ketlik.
+Luinjeberd	2183	8459	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Lúnbert.
+Mildam	2191	8454	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Mildaam.
+Nes	3603	8494	Heerenveen	Fryslân / Friesland	Woonplaatscode voor Nes werd op 10-12-2015 hernummerd van 2531 (buurgemeente Leeuwarden) in 3603 (deze gemeente Heerenveen).
+Nieuwebrug	2496	8469	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Nijbrêge.
+Nieuwehorne	2194	8414	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Nijhoarne.
+Nieuweschoot	2187	8452	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Nijskoat.
+Oranjewoud	2189	8453	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Oranjewâld.
+Oudehorne	2195	8413	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Aldhoarne.
+Oudeschoot	2188	8451	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Aldskoat.
+Terband	2182	8449	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Terbant.
+Tjalleberd	2184	8458	Heerenveen	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Tsjalbert.
+-	1205		Leeuwarden	Fryslân / Friesland	vervallen woonplaatscode voor Wirdum; de actuele code voor Wirdum is 3545
+-	1201		Leeuwarden	Fryslân / Friesland	Woonplaatscode Goutum hernummerd van 1201 in 3544 en daarna in 3616.
+-	1197		Leeuwarden	Fryslân / Friesland	Woonplaatscode voor Leeuwarden is hernummerd van 1197 in 3543 en daarna in 3615.
+-	2531		Leeuwarden	Fryslân / Friesland	Woonplaatscode voor Nes werd op 10-12-2015 hernummerd van 2531 (deze gemeente Leeuwarden) in 3603 (buurgemeente Heerenveen).
+-	3544		Leeuwarden	Fryslân / Friesland	Woonplaatscode Goutum hernummerd van 1201 in 3544 en daarna in 3616.
+-	3617		Leeuwarden	Fryslân / Friesland	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor een plaats in deze gemeente Leeuwarden
+-	3543		Leeuwarden	Fryslân / Friesland	Woonplaatscode voor Leeuwarden is hernummerd van 1197 in 3543 en daarna in 3615.
+-	2528		Leeuwarden	Fryslân / Friesland	woonplaatscode 2528 was aanvankelijk toegekend aan 'Grouw' of 'Grou'; inmiddels is aan Grou (in de Friese schrijfwijze) de code 3602 toegekend.
+Alde Leie	3224	9071	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede vermelding deze plaatsnaam in de Nederlandse spelling: Oude Leije.
+Baard	2009	8834	Leeuwarden	Fryslân / Friesland
+Bears	2010	9025	Leeuwarden	Fryslân / Friesland
+Britsum	3225	9055	Leeuwarden	Fryslân / Friesland
+Eagum	2524	9006	Leeuwarden	Fryslân / Friesland
+Easterlittens	2014	8835	Leeuwarden	Fryslân / Friesland
+Feinsum	3226	9053	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede vermelding deze plaatsnaam in de Nederlandse spelling: Finkum.
+Friens	2527	9009	Leeuwarden	Fryslân / Friesland
+Goutum	3616	9084	Leeuwarden	Fryslân / Friesland	Woonplaatscode Goutum hernummerd van 1201 in 3544 en daarna in 3616.
+Grou	3602	9001	Leeuwarden	Fryslân / Friesland	Woonplaatscode voor 'Grouw' of 'Grou' hernummerd van 2528 in 3602 (nu in de Friese schrijfwijze). In onbruik geraakte, vroegere Nederlandse spelling: Grouw.
+Hempens	1202	9086	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Himpens.
+Hijum	3227	9054	Leeuwarden	Fryslân / Friesland
+Hilaard	2017	9027	Leeuwarden	Fryslân / Friesland
+Húns	2019	8832	Leeuwarden	Fryslân / Friesland
+Idaerd	2529	9007	Leeuwarden	Fryslân / Friesland
+Jellum	2022	9026	Leeuwarden	Fryslân / Friesland
+Jelsum	3228	9057	Leeuwarden	Fryslân / Friesland
+Jirnsum	2530	9011	Leeuwarden	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Irnsum.
+Jorwert	2023	9023	Leeuwarden	Fryslân / Friesland
+Koarnjum	3229	9056	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede vermelding deze plaatsnaam in de Nederlandse spelling: Cornjum
+Leeuwarden	3615	8911-8941	Leeuwarden	Fryslân / Friesland	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats. Woonplaatscode voor Leeuwarden is hernummerd van 1197 in 3543 en daarna in 3615; een van de Friese Elf Steden
+Lekkum	1198	9081	Leeuwarden	Fryslân / Friesland
+Leons	2025	8833	Leeuwarden	Fryslân / Friesland
+Mantgum	2027	9022	Leeuwarden	Fryslân / Friesland
+Miedum	1199	9082	Leeuwarden	Fryslân / Friesland
+Reduzum	2535	9008	Leeuwarden	Fryslân / Friesland
+Snakkerburen	1200	9083	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Snakkerbuorren.
+Stiens	3230	9051	Leeuwarden	Fryslân / Friesland
+Swichum	1204	9087	Leeuwarden	Fryslân / Friesland
+Teerns	1203	9085	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Tearns.
+Warstiens	2540	9004	Leeuwarden	Fryslân / Friesland
+Warten	2541	9003	Leeuwarden	Fryslân / Friesland
+Weidum	2032	9024	Leeuwarden	Fryslân / Friesland
+Wergea	2539	9005	Leeuwarden	Fryslân / Friesland
+Wirdum	3545	9088	Leeuwarden	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Wurdum.
+Wytgaard	1206	9089	Leeuwarden	Fryslân / Friesland
+Aalsum	3387	9121	Noardeast-Fryslân	Fryslân / Friesland
+Anjum	3388	9133	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Eanjum.
+Augsbuurt	3307	9292	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Lytsewâld.
+Blije	3199	9171	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Blija.
+Bornwird	3389	9156	Noardeast-Fryslân	Fryslân / Friesland
+Brantgum	3390	9153	Noardeast-Fryslân	Fryslân / Friesland
+Burdaard	3200	9111-9112	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Birdaard.
+Burum	3308	9851	Noardeast-Fryslân	Fryslân / Friesland
+Dokkum	3391	9101-9103	Noardeast-Fryslân	Fryslân / Friesland	Dokkum is een van de Friese Elf Steden.
+Ee	3392	9131	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ie.
+Engwierum	3393	9132	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ingwierrum.
+Ferwert	3201	9172	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Ferwerd.
+Foudgum	3394	9154	Noardeast-Fryslân	Fryslân / Friesland
+Ginnum	3202	9174	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Genum.
+Hallum	3203	9074	Noardeast-Fryslân	Fryslân / Friesland
+Hantum	3395	9147	Noardeast-Fryslân	Fryslân / Friesland
+Hantumeruitburen	3396	9146	Noardeast-Fryslân	Fryslân / Friesland
+Hantumhuizen	3397	9144	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Hantumhuzen.
+Hegebeintum	3204	9173	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Hogebeintum.
+Hiaure	3398	9148	Noardeast-Fryslân	Fryslân / Friesland
+Holwerd	3399	9151	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Holwert.
+Jannum	3205	9107	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Janum.
+Jislum	3206	9177	Noardeast-Fryslân	Fryslân / Friesland
+Jouswier	3400	9124	Noardeast-Fryslân	Fryslân / Friesland
+Kollum	3309	9291	Noardeast-Fryslân	Fryslân / Friesland
+Kollumerpomp	3310	9293	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Pomp.
+Kollumerzwaag	3311	9298	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Kollumersweach.
+Lichtaard	3207	9176	Noardeast-Fryslân	Fryslân / Friesland
+Lioessens	3401	9134	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ljussens.
+Marrum	3208	9073	Noardeast-Fryslân	Fryslân / Friesland
+Metslawier	3402	9123	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Mitselwier.
+Moddergat	3403	9142	Noardeast-Fryslân	Fryslân / Friesland
+Morra	3404	9135	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Moarre.
+Munnekezijl	3312	9853	Noardeast-Fryslân	Fryslân / Friesland
+Nes	3405	9143	Noardeast-Fryslân	Fryslân / Friesland
+Niawier	3406	9138	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Nijewier.
+Oosternijkerk	3407	9137	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Easternijtsjerk.
+Oostrum	3408	9125	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Eastrum
+Oudwoude	3313	9294	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Aldwâld.
+Paesens	3409	9136	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Peazens.
+Raard	3410	9155	Noardeast-Fryslân	Fryslân / Friesland
+Reitsum	3209	9175	Noardeast-Fryslân	Fryslân / Friesland
+Ternaard	3411	9145	Noardeast-Fryslân	Fryslân / Friesland
+Triemen	3314	9296	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Trieme.
+Veenklooster	3315	9297	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Feankleaster.
+Waaxens	3412	9152	Noardeast-Fryslân	Fryslân / Friesland
+Wânswert	3210	9178	Noardeast-Fryslân	Fryslân / Friesland	In onbruik geraakte, vroegere Nederlandse spelling: Wanswerd.
+Warfstermolen	3316	9852	Noardeast-Fryslân	Fryslân / Friesland
+Westergeest	3317	9295	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Westergeast.
+Wetsens	3413	9122	Noardeast-Fryslân	Fryslân / Friesland
+Wierum	3414	9141	Noardeast-Fryslân	Fryslân / Friesland
+Zwagerbosch	3318	9299	Noardeast-Fryslân	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Sweagerbosk.
+-	1757		Ooststellingwerf	Fryslân / Friesland	Woonplaatscode voor Haule werd op 19-6-2013 hernummerd van 1757 in 3576.
+-	1758		Ooststellingwerf	Fryslân / Friesland	Woonplaatscode voor Haulerwijk werd op 19-6-2013 hernummerd van 1758 in 3577.
+Appelscha	1753	8426	Ooststellingwerf	Fryslân / Friesland
+Donkerbroek	1754	8435	Ooststellingwerf	Fryslân / Friesland
+Elsloo	1755	8424	Ooststellingwerf	Fryslân / Friesland	In dit geval (anders dan bij bv. Afferden) zijn er twee verschillende woonplaatsen met deze naam, zonder dat de basisadministratie een provincieafkorting heeft toegevoegd ter onderscheiding.
+Fochteloo	1756	8428	Ooststellingwerf	Fryslân / Friesland
+Haule	3576	8432	Ooststellingwerf	Fryslân / Friesland	Woonplaatscode voor Haule werd op 19-6-2013 hernummerd van 1757 in 3576.
+Haulerwijk	3577	8433	Ooststellingwerf	Fryslân / Friesland	Woonplaatscode voor Haulerwijk werd op 19-6-2013 hernummerd van 1758 in 3577.
+Langedijke	1759	8425	Ooststellingwerf	Fryslân / Friesland
+Makkinga	1760	8423	Ooststellingwerf	Fryslân / Friesland
+Nijeberkoop	1761	8422	Ooststellingwerf	Fryslân / Friesland
+Oldeberkoop	1762	8421	Ooststellingwerf	Fryslân / Friesland
+Oosterwolde	1763	8431	Ooststellingwerf	Fryslân / Friesland
+Ravenswoud	1764	8427	Ooststellingwerf	Fryslân / Friesland
+Waskemeer	1765	8434	Ooststellingwerf	Fryslân / Friesland
+Bakkeveen	3342	9243	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Bakkefean.
+Beetsterzwaag	3343	9244	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Beetstersweach.
+Drachten-Azeven	3344	9207	Opsterland	Fryslân / Friesland
+Frieschepalen	3345	9249	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Fryske Peallen.
+Gorredijk	3346	8401	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Gordyk.
+Hemrik	3347	8409	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Himrik
+Jonkerslân	3348	8403	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt nog als eerste plaatsnaam de Nederlandse versie: Jonkersland.
+Langezwaag	3349	8404	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Langsweagen.
+Lippenhuizen	3350	8408	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Lippenhuzen.
+Luxwoude	3351	8405	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Lúkswâld.
+Nij Beets	3352	9245	Opsterland	Fryslân / Friesland
+Olterterp	3353	9246	Opsterland	Fryslân / Friesland
+Siegerswoude	3354	9248	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Sigerswâld.
+Terwispel	3355	8407	Opsterland	Fryslân / Friesland
+Tijnje	3356	8406	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: De Tynje.
+Ureterp	3357	9247	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Oerterp.
+Wijnjewoude	3358	9241	Opsterland	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Wynjewâld.
+Schiermonnikoog	2428	9166	Schiermonnikoog	Fryslân / Friesland
+Boornbergum	3275	9212	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Boarnburgum.
+De Tike	3276	9219	Smallingerland	Fryslân / Friesland
+De Veenhoop	3277	9215	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: De Feanhoop.
+De Wilgen	3278	9213	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: De Wylgen.
+Drachten	3279	9201-9207	Smallingerland	Fryslân / Friesland
+Drachtstercompagnie	3280	9222	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Drachtster Kompenije.
+Goëngahuizen	3281	8497	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Goaijingahuzen.
+Houtigehage	3282	9223	Smallingerland	Fryslân / Friesland
+Kortehemmen	3283	9211	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Koartehimmen.
+Nijega	3284	9217	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Nyegea.
+Opeinde	3285	9218	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: De Pein.
+Oudega	3286	9216	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Aldegea.
+Rottevalle	3287	9221	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Rottefalle.
+Smalle Ee	3288	9214	Smallingerland	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de in onbruik rakende Friese versie: Smelle Ie.
+-	3593		Súdwest-Fryslân	Fryslân / Friesland	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor een plaats in deze gemeente Súdwest-Fryslân
+-	2864		Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode Ysbrechtum hernummerd van 2864 in 3507 in 3592
+-	2863		Súdwest-Fryslân	Fryslân / Friesland	vervallen woonplaatscode voor Offingawier; de actuele code voor Offingawier is 3506
+-	2862		Súdwest-Fryslân	Fryslân / Friesland	vervallen woonplaatscode voor Loënga; de actuele code voor Loënga is 3505
+-	2861		Súdwest-Fryslân	Fryslân / Friesland	vervallen woonplaatscode voor Sneek; de actuele code voor Sneek is 3504
+-	2421		Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode Tirns hernummerd van 2421 in 3591
+-	3507		Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode Ysbrechtum hernummerd van 2864 in 3507 in 3592
+Abbega	2400	8617	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Oudega	2417	8614	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Allingawier	2301	8758	Súdwest-Fryslân	Fryslân / Friesland
+Arum	2302	8822	Súdwest-Fryslân	Fryslân / Friesland
+Blauwhuis	2401	8615	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Boazum	2011	8635	Súdwest-Fryslân	Fryslân / Friesland
+Bolsward	2079	8701-8702	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2079 representeerde aanvankelijk 'Boalsert' (in de Friese schrijfwijze); maar de code 2079 is nu toegekend aan de Nederlandse schrijfwijze 'Bolsward'; een van de Friese Elf Steden
+Breezanddijk	2303	8766	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2303 representeert alleen de Nederlandse schrijfwijze 'Breezanddijk'
+Britswert	2012	8636	Súdwest-Fryslân	Fryslân / Friesland
+Burgwerd	2304	8742	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2304 representeert alleen de Nederlandse schrijfwijze 'Burgwerd'
+Cornwerd	2305	8753	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2305 representeert alleen de Nederlandse schrijfwijze 'Cornwerd'
+Hommerts	2408	8622	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Dearsum	2526	8644	Súdwest-Fryslân	Fryslân / Friesland
+Dedgum	2306	8764	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2306 representeert alleen de Nederlandse schrijfwijze 'Dedgum'
+IJlst	2410	8651	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling; een van de Friese Elf Steden
+Easterein	2013	8734	Súdwest-Fryslân	Fryslân / Friesland
+Easterwierrum	2015	9021	Súdwest-Fryslân	Fryslân / Friesland
+Exmorra	2307	8759	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2307 representeert alleen de Nederlandse schrijfwijze 'Exmorra'
+Ferwoude	2308	8761	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2308 representeert alleen de Nederlandse schrijfwijze 'Ferwoude'
+Folsgare	2402	8773	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Gaast	2309	8757	Súdwest-Fryslân	Fryslân / Friesland
+Gaastemeer	2403	8611	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2403 representeert alleen de Nederlandse schrijfwijze 'Gaastmeer'
+Gauw	2404	8627	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Goënga	2405	8628	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Greonterp	2406	8658	Súdwest-Fryslân	Fryslân / Friesland
+Hartwerd	2310	8741	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2310 representeert alleen de Nederlandse schrijfwijze 'Hartwerd'
+Heeg	2407	8621	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Hichtum	2311	8743	Súdwest-Fryslân	Fryslân / Friesland
+Hidaard	2016	8737	Súdwest-Fryslân	Fryslân / Friesland
+Hieslum	2312	8762	Súdwest-Fryslân	Fryslân / Friesland
+Hemelum	1970	8584	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Hinnaard	2018	8844	Súdwest-Fryslân	Fryslân / Friesland
+Hindeloopen	1968	8713	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling; een van de Friese Elf Steden
+Idsegahuizum	2313	8755	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2313 representeert alleen de Nederlandse schrijfwijze 'Idsegahuizum'
+Idzega	2409	8612	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Iens	2020	8733	Súdwest-Fryslân	Fryslân / Friesland
+It Heidenskip	1973	8724	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling (hoofdletter I in het lidwoord).
+Itens	2021	8735	Súdwest-Fryslân	Fryslân / Friesland
+Jutrijp	2412	8623	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Kimswerd	2314	8821	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2314 representeert alleen de Nederlandse schrijfwijze 'Kimswerd'
+Kornwerderzand	2315	8752	Súdwest-Fryslân	Fryslân / Friesland
+Koudum	1966	8723	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 1966 representeert alleen de Nederlandse schrijfwijze 'Koudum'
+Koufurderrige	2413	8529	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2413 representeert alleen de Nederlandse schrijfwijze 'Koufurderrige'
+Kûbaard	2024	8732	Súdwest-Fryslân	Fryslân / Friesland
+Loënga	3505	8631	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 3505 representeert alleen de Nederlandse schrijfwijze 'Loënga'
+Lollum	2316	8823	Súdwest-Fryslân	Fryslân / Friesland
+Longerhouw	2317	8745	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2317 representeert alleen de Nederlandse schrijfwijze 'Longerhouw'
+Lytsewierrum	2026	8642	Súdwest-Fryslân	Fryslân / Friesland
+Makkum	2318	8754	Súdwest-Fryslân	Fryslân / Friesland
+Molkwerum	1967	8722	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Nijhuizum	1972	8775	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Nijland	2414	8771	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Offingawier	3506	8626	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 3506 representeert alleen de Nederlandse schrijfwijze 'Offingawier'
+Oosthem	2415	8618	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2415 representeert alleen de Nederlandse schrijfwijze 'Oosthem'
+Parrega	2319	8763	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2319 representeert alleen de Nederlandse schrijfwijze 'Parrega'
+Piaam	2320	8756	Súdwest-Fryslân	Fryslân / Friesland
+Pingjum	2321	8749	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2321 representeert alleen de Nederlandse schrijfwijze 'Pingjum'
+Poppenwier	2533	9013	Súdwest-Fryslân	Fryslân / Friesland	In onbruik geraakte Nederlandse spelling: Poppingawier.
+Raerd	2534	9012	Súdwest-Fryslân	Fryslân / Friesland	In onbruik geraakte Nederlandse spelling: Rauwerd.
+Reahûs	2028	8736	Súdwest-Fryslân	Fryslân / Friesland
+Rien	2029	8641	Súdwest-Fryslân	Fryslân / Friesland
+Sandfirden	2418	8613	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Schettens	2322	8744	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2322 representeert alleen de Nederlandse schrijfwijze 'Schettens'
+Schraard	2323	8746	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2323 representeert alleen de Nederlandse schrijfwijze 'Schraard'
+Sibrandabuorren	2536	8647	Súdwest-Fryslân	Fryslân / Friesland	In onbruik geraakte Nederlandse spelling: Sijbrandaburen.
+Scharnegoutum	2419	8629	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Smallebrugge	2420	8552	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2420 representeert alleen de Nederlandse schrijfwijze 'Smallebrugge'
+Sneek	3504	8601-8608	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 3504 representeert alleen de Nederlandse schrijfwijze 'Sneek'; een van de Friese Elf Steden
+Stavoren	1969	8715	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling; een van de Friese Elf Steden
+Tersoal	2538	9014	Súdwest-Fryslân	Fryslân / Friesland
+Tjerkwerd	2324	8765	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2324 representeert alleen de Nederlandse schrijfwijze 'Tjerkwerd'
+Oppenhuizen	2416	8625	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Tjalhuizum	2422	8772	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Tirns	3591	8632	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse schrijfwijze 'Tirns'. Hernummerd van 2421 naar 3591.
+Uitwellingerga	2423	8624	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Waaksens	2031	8845	Súdwest-Fryslân	Fryslân / Friesland
+Woudsend	2426	8551	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Workum	1965	8711	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie Warkum. Het Kadaster gebruikt nog de Nederlandse spelling Workum; een van de Friese Elf Steden
+Warns	1971	8721	Súdwest-Fryslân	Fryslân / Friesland
+Westhem	2424	8616	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie Westhim. Het Kadaster gebruikt nog de Nederlandse spelling Westhem.
+Witmarsum	2325	8748	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2325 representeert alleen de Nederlandse schrijfwijze 'Witmarsum'
+Wiuwert	2034	8637	Súdwest-Fryslân	Fryslân / Friesland
+Wolsum	2425	8774	Súdwest-Fryslân	Fryslân / Friesland
+Wommels	2036	8731	Súdwest-Fryslân	Fryslân / Friesland
+Wons	2326	8747	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2326 representeert alleen de Nederlandse schrijfwijze 'Wons'
+Indijk	2411	8553	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie. Het Kadaster gebruikt nog de Nederlandse spelling.
+Ypecolsga	2427	8554	Súdwest-Fryslân	Fryslân / Friesland	In deze gemeente vermelden de bebouwde-komborden als eerste plaatsnaam de Friese versie Ypekolsgea. Het Kadaster gebruikt nog de Nederlandse spelling Ypecolsga.
+Ysbrechtum	3592	8633	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode Ysbrechtum hernummerd van 2864 in 3507 in 3592
+Zurich	2327	8751	Súdwest-Fryslân	Fryslân / Friesland	woonplaatscode 2327 representeert alleen de Nederlandse schrijfwijze 'Zurich'
+Baaiduinen	2621	8884	Terschelling	Fryslân / Friesland
+Formerum	2617	8894	Terschelling	Fryslân / Friesland
+Hee	2623	8882	Terschelling	Fryslân / Friesland
+Hoorn	2615	8896	Terschelling	Fryslân / Friesland
+Kaard	2622	8883	Terschelling	Fryslân / Friesland	De Friese spelling Kaart is in onbruik geraakt.
+Kinnum	2624	8885	Terschelling	Fryslân / Friesland
+Landerum	2618	8893	Terschelling	Fryslân / Friesland
+Lies	2616	8895	Terschelling	Fryslân / Friesland
+Midsland	2619	8891	Terschelling	Fryslân / Friesland
+Oosterend	2614	8897	Terschelling	Fryslân / Friesland
+Striep	2620	8892	Terschelling	Fryslân / Friesland	De Friese spelling Seeryp is in onbruik geraakt.
+West-Terschelling	2625	8881	Terschelling	Fryslân / Friesland	Bebouwde-kombord meldt deze naam als twee woorden, dus zonder koppelteken: West Terschelling.
+Aldtsjerk	2441	9064	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Oudkerk.
+Burgum	2451	9251	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Bergum.
+Earnewâld	2456	9264	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Eernewoude.
+Eastermar	2454	9261	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Oostermeer.
+Garyp	2455	9263	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Garijp.
+Gytsjerk	2444	9061	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Giekerk.
+Hurdegaryp	2449	9254	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Hardegarijp.
+Jistrum	2452	9258	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Eestrum.
+Mûnein	2446	9063	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Molenend.
+Noardburgum	2450	9257	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Noordbergum.
+Oentsjerk	2443	9062	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Oenkerk.
+Ryptsjerk	2445	9256	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Rijperkerk.
+Sumar	2453	9262	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Suameer.
+Suwâld	2448	9265	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Suawoude.
+Tytsjerk	2447	9255	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt soms nog als tweede plaatsnaam de Nederlandse versie: Tietjerk.
+Wyns	2442	9091	Tytsjerksteradiel	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Nederlandse versie: Wijns.
+Vlieland	3299	8899	Vlieland	Fryslân / Friesland	Woonplaats kent alleen code voor Vlieland als het hele eiland/de hele gemeente.
+Achlum	1364	8806	Waadhoeke	Fryslân / Friesland
+Baaium	2008	8841	Waadhoeke	Fryslân / Friesland
+Berltsum	2724	9041	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Berlikum.
+Bitgum	2722	9044	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Beetgum.
+Bitgummole	2723	9045	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Beetgumermolen.
+Blessum	2725	9032	Waadhoeke	Fryslân / Friesland
+Boer	1371	8809	Waadhoeke	Fryslân / Friesland
+Boksum	2726	9031	Waadhoeke	Fryslân / Friesland
+Deinum	2727	9033	Waadhoeke	Fryslân / Friesland
+Dongjum	1372	8808	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Doanjum
+Dronryp	2729	9035	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Dronrijp.
+Firdgum	1378	8852	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Furdgum
+Franeker	1366	8801-8802	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Frentsjer; een van de Friese Elf Steden
+Herbaijum	1365	8807	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Hjerbeam.
+Hitzum	1363	8805	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Hitsum.
+Ingelum	2728	9038	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Engelum.
+Klooster Lidlum	1376	8853	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Kleaster-Lidlum. Het Kadaster laat het koppelteken weg.
+Marsum	2730	9034	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Marssum.
+Menaam	2731	9036	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Menaldum.
+Minnertsga	3333	9047	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Minnertsgea.
+Nij Altoenae	3330	9072	Waadhoeke	Fryslân / Friesland
+Oosterbierum	1375	8854	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Easterbierrum.
+Oudebildtzijl	3328	9078	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Ouwe-Syl.
+Peins	1368	8812	Waadhoeke	Fryslân / Friesland
+Pietersbierum	1374	8856	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Pitersbierrum.
+Ried	1370	8811	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Rie.
+Schalsum	1369	8813	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Skalsum.
+Sexbierum	1373	8855	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Seisbierrum.
+Skingen	2732	8816	Waadhoeke	Fryslân / Friesland	Kadaster heeft plaatsnaam aangepast volgens de Friese spelling. Bebouwde-kombord meldt nog als eerste plaatsnaam de in onbruik geraakte, Nederlandse spelling: Schingen.
+Slappeterp	2733	9037	Waadhoeke	Fryslân / Friesland
+Spannum	2030	8843	Waadhoeke	Fryslân / Friesland
+St.-Annaparochie	3331	9076	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: St.-Anne.
+St.-Jacobiparochie	3332	9079	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: St.-Jabik.
+Tzum	1362	8804	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Tsjom.
+Tzummarum	1377	8851	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Tsjummearum.
+Vrouwenparochie	3334	9077	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Froubuurt.
+Westhoek	3329	9075	Waadhoeke	Fryslân / Friesland
+Wier	2734	9043	Waadhoeke	Fryslân / Friesland
+Winsum	2033	8831	Waadhoeke	Fryslân / Friesland
+Wjelsryp	2035	8842	Waadhoeke	Fryslân / Friesland
+Zweins	1367	8814	Waadhoeke	Fryslân / Friesland	Bebouwde-kombord meldt als tweede plaatsnaam de Friese versie: Sweins.
+Blesdijke	1720	8398	Weststellingwerf	Fryslân / Friesland
+Boijl	1721	8392	Weststellingwerf	Fryslân / Friesland
+De Blesse	1722	8397	Weststellingwerf	Fryslân / Friesland
+De Hoeve	1723	8394	Weststellingwerf	Fryslân / Friesland
+Langelille	1724	8484	Weststellingwerf	Fryslân / Friesland
+Munnekeburen	1725	8485	Weststellingwerf	Fryslân / Friesland
+Nijeholtpade	1726	8475	Weststellingwerf	Fryslân / Friesland
+Nijeholtwolde	1727	8488	Weststellingwerf	Fryslân / Friesland
+Nijelamer	1728	8487	Weststellingwerf	Fryslân / Friesland
+Nijetrijne	1729	8481	Weststellingwerf	Fryslân / Friesland
+Noordwolde	1730	8391	Weststellingwerf	Fryslân / Friesland
+Oldeholtpade	1731	8474	Weststellingwerf	Fryslân / Friesland
+Oldeholtwolde	1732	8477	Weststellingwerf	Fryslân / Friesland
+Oldelamer	1733	8486	Weststellingwerf	Fryslân / Friesland
+Oldetrijne	1734	8479	Weststellingwerf	Fryslân / Friesland
+Oosterstreek	1735	8388	Weststellingwerf	Fryslân / Friesland
+Peperga	1736	8396	Weststellingwerf	Fryslân / Friesland
+Scherpenzeel	1737	8483	Weststellingwerf	Fryslân / Friesland
+Slijkenburg	1738	8489	Weststellingwerf	Fryslân / Friesland
+Sonnega	1739	8478	Weststellingwerf	Fryslân / Friesland
+Spanga	1740	8482	Weststellingwerf	Fryslân / Friesland
+Steggerda	1741	8395	Weststellingwerf	Fryslân / Friesland
+Ter Idzard	1742	8476	Weststellingwerf	Fryslân / Friesland
+Vinkega	1743	8393	Weststellingwerf	Fryslân / Friesland
+Wolvega	1744	8471-8472	Weststellingwerf	Fryslân / Friesland
+Zandhuizen	1745	8389	Weststellingwerf	Fryslân / Friesland
+Amen	1147	9446	Aa en Hunze	Drenthe
+Anderen	1148	9465	Aa en Hunze	Drenthe
+Anloo	1149	9467	Aa en Hunze	Drenthe
+Annen	1150	9468	Aa en Hunze	Drenthe
+Annerveenschekanaal	1151	9654	Aa en Hunze	Drenthe
+Balloërveld	1153	9459	Aa en Hunze	Drenthe
+Balloo	1152	9458	Aa en Hunze	Drenthe
+Deurze	1154	9457	Aa en Hunze	Drenthe
+Eext	1155	9463	Aa en Hunze	Drenthe
+Eexterveen	1156	9658	Aa en Hunze	Drenthe
+Eexterveenschekanaal	1157	9659	Aa en Hunze	Drenthe
+Eexterzandvoort	1158	9464	Aa en Hunze	Drenthe
+Ekehaar	1159	9454	Aa en Hunze	Drenthe
+Eldersloo	1160	9453	Aa en Hunze	Drenthe
+Eleveld	1161	9456	Aa en Hunze	Drenthe
+Gasselte	1162	9462	Aa en Hunze	Drenthe
+Gasselternijveen	1163	9514	Aa en Hunze	Drenthe
+Gasselternijveenschemond	1164	9515	Aa en Hunze	Drenthe
+Gasteren	1165	9466	Aa en Hunze	Drenthe
+Geelbroek	1166	9455	Aa en Hunze	Drenthe
+Gieten	1167	9461	Aa en Hunze	Drenthe
+Gieterveen	1168	9511	Aa en Hunze	Drenthe
+Grolloo	1169	9444	Aa en Hunze	Drenthe
+Marwijksoord	1170	9448	Aa en Hunze	Drenthe
+Nieuw Annerveen	1171	9657	Aa en Hunze	Drenthe
+Nieuwediep	1172	9512	Aa en Hunze	Drenthe
+Nijlande	1173	9452	Aa en Hunze	Drenthe
+Nooitgedacht	1174	9449	Aa en Hunze	Drenthe
+Oud Annerveen	1175	9655	Aa en Hunze	Drenthe
+Papenvoort	1176	9447	Aa en Hunze	Drenthe
+Rolde	1177	9451	Aa en Hunze	Drenthe
+Schipborg	1178	9469	Aa en Hunze	Drenthe
+Schoonloo	1179	9443	Aa en Hunze	Drenthe
+Spijkerboor	1180	9656	Aa en Hunze	Drenthe
+Vredenheim	1181	9445	Aa en Hunze	Drenthe
+-	2457		Assen	Drenthe	woonplaatscode 2457 was tot 17-4-2014 toegekend aan Smilde in de gemeente Assen, maar Smilde ligt niet in Assen; de gecorrigeerde code voor Smilde (in de gemeente Midden-Drenthe) werd 3021.
+Assen	2391	9401-9408	Assen	Drenthe
+Loon	2392	9409	Assen	Drenthe
+Rhee	2393	9486	Assen	Drenthe
+Ter Aard	2394	9487	Assen	Drenthe
+Ubbena	2395	9492	Assen	Drenthe
+Zeijerveen	2396	9489	Assen	Drenthe
+Zeijerveld	2397	9488	Assen	Drenthe
+1e Exloërmond	1779	9573	Borger-Odoorn	Drenthe	Woonplaatsnaam begint met een cijfer.
+2e Exloërmond	1780	9571	Borger-Odoorn	Drenthe	Woonplaatsnaam begint met een cijfer.
+2e Valthermond	1781	7877	Borger-Odoorn	Drenthe	Woonplaatsnaam begint met een cijfer.
+Borger	1782	9531	Borger-Odoorn	Drenthe
+Bronneger	1783	9527	Borger-Odoorn	Drenthe
+Bronnegerveen	1784	9526	Borger-Odoorn	Drenthe
+Buinen	1785	9528	Borger-Odoorn	Drenthe
+Buinerveen	1786	9524	Borger-Odoorn	Drenthe
+Drouwen	1787	9533	Borger-Odoorn	Drenthe
+Drouwenermond	1788	9523	Borger-Odoorn	Drenthe
+Drouwenerveen	1789	9525	Borger-Odoorn	Drenthe
+Ees	1790	9536	Borger-Odoorn	Drenthe
+Eesergroen	1791	9537	Borger-Odoorn	Drenthe
+Eeserveen	1792	7858-7859	Borger-Odoorn	Drenthe
+Ellertshaar	1793	9535	Borger-Odoorn	Drenthe
+Exloërveen	1794	9574	Borger-Odoorn	Drenthe
+Exloo	1795	7875	Borger-Odoorn	Drenthe
+Klijndijk	1796	7871	Borger-Odoorn	Drenthe
+Nieuw-Buinen	1797	9521	Borger-Odoorn	Drenthe
+Odoorn	1798	7873	Borger-Odoorn	Drenthe
+Odoornerveen	1799	7874	Borger-Odoorn	Drenthe
+Valthe	1800	7872	Borger-Odoorn	Drenthe
+Valthermond	1801	7876	Borger-Odoorn	Drenthe
+Westdorp	1802	9534	Borger-Odoorn	Drenthe
+Zandberg	1803	9564	Borger-Odoorn	Drenthe
+'t Haantje	2164	7847	Coevorden	Drenthe
+Aalden	2145	7854	Coevorden	Drenthe
+Benneveld	2146	7856	Coevorden	Drenthe
+Coevorden	2147	7741-7742	Coevorden	Drenthe
+Dalen	2148	7751	Coevorden	Drenthe
+Dalerpeel	2149	7753	Coevorden	Drenthe
+Dalerveen	2150	7755	Coevorden	Drenthe
+De Kiel	2151	7849	Coevorden	Drenthe
+Diphoorn	2152	7842	Coevorden	Drenthe
+Erm	2153	7843	Coevorden	Drenthe
+Gees	2154	7863	Coevorden	Drenthe
+Geesbrug	2155	7917	Coevorden	Drenthe
+Holsloot	2156	7845	Coevorden	Drenthe
+Meppen	2157	7855	Coevorden	Drenthe
+Nieuwlande Coevorden	2158	7929	Coevorden	Drenthe	Dit buitengebied (Veldweg 1-13, Oostopgaande 57-64) heeft een eigen postcode en woonplaatscode. De eigenlijke plaats Nieuwlande ligt in de gemeente Hoogeveen, vlak buiten de gemeente Coevorden.
+Noord-Sleen	2159	7846	Coevorden	Drenthe
+Oosterhesselen	2160	7861	Coevorden	Drenthe
+Schoonoord	2161	7848	Coevorden	Drenthe
+Sleen	2162	7841	Coevorden	Drenthe
+Stieltjeskanaal	2163	7756	Coevorden	Drenthe
+Wachtum	2165	7754	Coevorden	Drenthe
+Wezup	2166	7852	Coevorden	Drenthe
+Wezuperbrug	2167	7853	Coevorden	Drenthe
+Zweeloo	2168	7851	Coevorden	Drenthe
+Zwinderen	2169	7864	Coevorden	Drenthe
+Alteveer	3160	7927	De Wolden	Drenthe	Elders in Drenthe (in Noordenveld) en in Groningen in Stadskanaal zijn er gelijkgespelde woonplaatsen 'Alteveer'. In Hoogeveen is er 'Alteveer gem Hoogeveen'.
+Ansen	3161	7964	De Wolden	Drenthe	Woonplaatscode 3104 is toegekend aan het buitengebied (Anserdennen, postcode 7991) van Ansen in buurgemeente Westerveld.
+de Wijk	3162	7957	De Wolden	Drenthe	spelling met onderkast d
+Drogteropslagen	3163	7705	De Wolden	Drenthe
+Echten	3164	7932	De Wolden	Drenthe
+Eursinge	3165	7935	De Wolden	Drenthe
+Kerkenveld	3166	7926	De Wolden	Drenthe
+Koekange	3167	7958	De Wolden	Drenthe
+Linde	3168	7925	De Wolden	Drenthe
+Ruinen	3169	7963	De Wolden	Drenthe	Woonplaatscode voor het gebied dat de bebouwde kom van Ruinen omvat. Een buitengebied van Ruinen (Benderse Heide) ligt in buurgemeente Westerveld (woonplaatscode 3119).
+Ruinerwold	3170	7961	De Wolden	Drenthe
+Veeningen	3171	7924	De Wolden	Drenthe
+Zuidwolde	3172	7921	De Wolden	Drenthe
+Barger-Compascuum	1987	7884	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Blokken
+Emmen	1988	7811-7828	Emmen	Drenthe	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats; zowel dorp als wijk in kwadrant De Stad
+Emmer-Compascuum	1989	7881	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Monden
+Erica	1990	7887	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Velden
+Klazienaveen	1991	7891-7892	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Blokken
+Klazienaveen-Noord	1992	7889	Emmen	Drenthe	Klazienaveen ten noorden van de Postweg (Scholtenskanaal, de Weerdstraat, Willem Albertsvaart NZ)
+Nieuw-Amsterdam	1993	7833	Emmen	Drenthe	de combinatie Nieuw-Amsterdam/Veenoord is zowel dorp als wijk in kwadrant De Velden
+Nieuw-Dordrecht	1994	7885	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Blokken
+Nieuw-Schoonebeek	1995	7766	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Blokken
+Nieuw-Weerdinge	1996	7831	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Monden
+Roswinkel	1997	7895	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Monden
+Schoonebeek	1998	7761	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Velden
+Veenoord	1999	7844	Emmen	Drenthe	de combinatie Nieuw-Amsterdam/Veenoord is zowel dorp als wijk in kwadrant De Velden
+Weiteveen	2000	7765	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Blokken
+Zandpol	2001	7764	Emmen	Drenthe	binnen de gemeente Emmen gelegen in kwadrant De Velden
+Zwartemeer	2002	7894	Emmen	Drenthe	zowel dorp als wijk in kwadrant De Blokken
+Alteveer gem Hoogeveen	1810	7915	Hoogeveen	Drenthe	Het Kadaster (en daarmee ook de postcode) gebruikt de spelling 'Alteveer gem Hoogeveen'.
+Elim	1811	7916	Hoogeveen	Drenthe
+Fluitenberg	1812	7931	Hoogeveen	Drenthe
+Hollandscheveld	1813	7913	Hoogeveen	Drenthe
+Hoogeveen	1814	7901-7909	Hoogeveen	Drenthe
+Nieuweroord	1815	7911-7912	Hoogeveen	Drenthe	Ten noorden van postcodegebied 7912 ligt 7910 voor deel van Nieuweroord in gem. Midden-Drenthe.
+Nieuwlande	1816	7918	Hoogeveen	Drenthe	Een kilometer ten oosten van Nieuwlande, in buurgemeente Coevorden, ligt een buitengebied met de naam Nieuwlande Coevorden (Veldweg 1-13, Oostopgaande 57-64, met eigen postcode en woonplaatscode).
+Noordscheschut	1817	7914	Hoogeveen	Drenthe
+Pesse	1818	7933	Hoogeveen	Drenthe	Dit gebied ligt ten oosten van de A28 en omvat bebouwde kom. Aansluitend buitengebied ten westen van de A28 in buurgemeente Westerveld wordt ook Pesse genoemd (woonplaatscode 3118).
+Stuifzand	1819	7934	Hoogeveen	Drenthe	In buurgemeente Midden-Drenthe wordt het buitengebied ten noorden van de Boerveldweg (woonplaatscode 3023, postcode 7928) ook tot Stuifzand gerekend.
+Tiendeveen	1820	7936	Hoogeveen	Drenthe	In buurgemeente Midden-Drenthe ligt het gelijknamige en aangrenzende noordwestelijk deel van Tiendeveen (ten noorden van Kremboong; woonplaatscode 3024, postcode 7937).
+Broekhuizen	1086	7965	Meppel	Drenthe
+De Schiphorst	1085	7966	Meppel	Drenthe
+Meppel	1082	7941-7944	Meppel	Drenthe
+Nijeveen	1083	7948	Meppel	Drenthe
+Rogat	1084	7949	Meppel	Drenthe
+Balinge	3005	9437	Midden-Drenthe	Drenthe
+Beilen	3006	9411-9413	Midden-Drenthe	Drenthe
+Bovensmilde	3007	9421	Midden-Drenthe	Drenthe
+Bruntinge	3008	9435	Midden-Drenthe	Drenthe
+Drijber	3009	9419	Midden-Drenthe	Drenthe
+Elp	3010	9442	Midden-Drenthe	Drenthe
+Eursinge	3011	9434	Midden-Drenthe	Drenthe
+Garminge	3012	9438	Midden-Drenthe	Drenthe
+Hijken	3013	9415	Midden-Drenthe	Drenthe
+Hoogersmilde	3014	9423	Midden-Drenthe	Drenthe	Woonplaatscode 3115 is toegekend aan buitengebied (Veldhuizen in postcodegebied 7981) van Hoogersmilde in buurgemeente Westerveld.
+Hooghalen	3015	9414	Midden-Drenthe	Drenthe
+Mantinge	3016	9436	Midden-Drenthe	Drenthe
+Nieuw-Balinge	3018	7938	Midden-Drenthe	Drenthe
+Nieuweroord	3017	7910	Midden-Drenthe	Drenthe	postcode 7910 (niet voor postbussen ondanks dat het getal op 0 eindigt) voor 3 straten ten noorden van Hoogeveens postcodegebied 7912: Geeserraai en Middenraai lage huisnummers en Noorderweg 15.
+Oranje	3019	9416	Midden-Drenthe	Drenthe
+Orvelte	3020	9441	Midden-Drenthe	Drenthe
+Smilde	3021	9422	Midden-Drenthe	Drenthe	woonplaatscode 2457 was tot 17-4-2014 toegekend aan Smilde in de gemeente Assen; Smilde ligt echter niet in Assen. Per 3-3-2016 is de code gecorrigeerd in 3021.
+Spier	3022	9417	Midden-Drenthe	Drenthe	Onder woonplaatscode 3120 is er een buitengebied van Spier (onmiddellijk ten westen van de spoorlijn) in buurgemeente Westerveld.
+Stuifzand	3023	7928	Midden-Drenthe	Drenthe	Ten noorden van de Boerveldweg (nl. Wijsterseweg 155 en 166-178) ligt dit buitengebied van Stuifzand. De bebouwde kom ligt echter in buurgemeente Hoogeveen (woonplaatscode 1819, postcode 7934).
+Tiendeveen	3024	7937	Midden-Drenthe	Drenthe	Ten noorden van Kremboong ligt dit buitengebied van Tiendeveen. De gelijknamige en aangrenzende bebouwde kom ligt in buurgemeente Hoogeveen (woonplaatscode 1820, postcode 7936).
+Westerbork	3025	9431	Midden-Drenthe	Drenthe
+Wijster	3026	9418	Midden-Drenthe	Drenthe
+Witteveen	3027	9439	Midden-Drenthe	Drenthe
+Zuidveld	3028	9432	Midden-Drenthe	Drenthe
+Zwiggelte	3029	9433	Midden-Drenthe	Drenthe
+-	1648		Noordenveld	Drenthe	woonplaatscode Roderesch hernummerd van 1648 in 3633
+-	1650		Noordenveld	Drenthe	woonplaatscode Steenbergen hernummerd van 1650 in 3634
+Alteveer	1633	9306	Noordenveld	Drenthe	Elders in Drenthe (in De Wolden) en in Groningen in Stadskanaal zijn er gelijkgespelde woonplaatsen 'Alteveer'. In Hoogeveen is er 'Alteveer gem Hoogeveen'.
+Een	1634	9342	Noordenveld	Drenthe
+Een-West	1635	9343	Noordenveld	Drenthe
+Foxwolde	1636	9314	Noordenveld	Drenthe
+Huis ter Heide	1637	9336	Noordenveld	Drenthe
+Langelo	1638	9333	Noordenveld	Drenthe
+Leutingewolde	1639	9313	Noordenveld	Drenthe
+Lieveren	1640	9304	Noordenveld	Drenthe
+Matsloot	1641	9749	Noordenveld	Drenthe
+Nietap	1642	9312	Noordenveld	Drenthe
+Nieuw-Roden	1643	9311	Noordenveld	Drenthe
+Norg	1644	9331	Noordenveld	Drenthe
+Peest	1645	9334	Noordenveld	Drenthe
+Peize	1646	9321	Noordenveld	Drenthe
+Roden	1647	9301-9302	Noordenveld	Drenthe
+Roderesch	3633	9305	Noordenveld	Drenthe	woonplaatscode Roderesch hernummerd van 1648 in 3633
+Roderwolde	1649	9315	Noordenveld	Drenthe
+Steenbergen	3634	9307	Noordenveld	Drenthe	woonplaatscode Steenbergen hernummerd van 1650 in 3634
+Veenhuizen	1651	9341	Noordenveld	Drenthe
+Westervelde	1652	9337	Noordenveld	Drenthe
+Zuidvelde	1653	9335	Noordenveld	Drenthe
+Bunne	2914	9496	Tynaarlo	Drenthe
+De Groeve	2924	9473	Tynaarlo	Drenthe
+De Punt	2915	9493	Tynaarlo	Drenthe
+Donderen	2916	9497	Tynaarlo	Drenthe
+Eelde	2909	9761	Tynaarlo	Drenthe	Ondanks aparte woonplaatscodes voor de twee dorpen Eelde en Paterswolde, heeft de gemeente de bebouwde kom aangegeven met de gecombineerde naam Eelde-Paterswolde.
+Eelderwolde	2911	9766	Tynaarlo	Drenthe
+Midlaren	2926	9475	Tynaarlo	Drenthe
+Oudemolen	2917	9484	Tynaarlo	Drenthe
+Paterswolde	2910	9765	Tynaarlo	Drenthe	Ondanks aparte woonplaatscodes voor de twee dorpen Eelde en Paterswolde, heeft de gemeente de bebouwde kom aangegeven met de gecombineerde naam Eelde-Paterswolde.
+Taarlo	2918	9485	Tynaarlo	Drenthe
+Tynaarlo	2919	9482	Tynaarlo	Drenthe
+Vries	2912	9481	Tynaarlo	Drenthe
+Winde	2920	9495	Tynaarlo	Drenthe
+Yde	2921	9494	Tynaarlo	Drenthe
+Zeegse	2922	9483	Tynaarlo	Drenthe
+Zeijen	2923	9491	Tynaarlo	Drenthe
+Zuidlaarderveen	2925	9474	Tynaarlo	Drenthe
+Zuidlaren	2913	9471-9472	Tynaarlo	Drenthe
+Ansen	3104	7991	Westerveld	Drenthe	Dit is het buitengebied van Ansen (Anserdennen) met eigen woonplaatscode. Zijn bebouwde kom ligt in buurgemeente De Wolden (woonplaatscode 3161, postcode 7964).
+Boschoord	3105	8387	Westerveld	Drenthe
+Darp	3106	7973	Westerveld	Drenthe
+Diever	3107	7981	Westerveld	Drenthe
+Dieverbrug	3108	7984	Westerveld	Drenthe
+Doldersum	3109	8386	Westerveld	Drenthe
+Dwingeloo	3110	7991	Westerveld	Drenthe
+Frederiksoord	3111	8382	Westerveld	Drenthe
+Geeuwenbrug	3112	7985	Westerveld	Drenthe
+Havelte	3113	7971	Westerveld	Drenthe
+Havelterberg	3114	7974	Westerveld	Drenthe
+Hoogersmilde	3115	7981	Westerveld	Drenthe	Dit buitengebied (bij Veldhuizen) heeft eigen woonplaatscode. De bebouwde kom van Hoogersmilde ligt in buurgemeente Midden-Drenthe (woonplaatscode 3014, postcode 9423).
+Nijensleek	3116	8383	Westerveld	Drenthe
+Oude Willem	3117	8439	Westerveld	Drenthe
+Pesse	3118	7991	Westerveld	Drenthe	Dit buitengebied ligt ten westen van de A28 (Kraloër Heide). Aansluitend gebied ten oosten van de A28 in buurgemeente De Wolden omvat de bebouwde kom van Pesse (woonplaatscode 1818).
+Ruinen	3119	7991	Westerveld	Drenthe	Buitengebied op Benderse Heide; de bebouwde kom van Ruinen ligt in buurgemeente De Wolden (woonplaatscode 3169, postcode 7963).
+Spier	3120	7991	Westerveld	Drenthe	Dit is buitengebied van Spier (omgeving Comm Cramerpad, ten westen van spoorlijn); de bebouwde kom van Spier ligt in buurgemeente Midden-Drenthe (woonplaatscode 3022, postcode 9417).
+Uffelte	3121	7975	Westerveld	Drenthe
+Vledder	3122	8381	Westerveld	Drenthe
+Vledderveen	3123	8385	Westerveld	Drenthe
+Wapse	3124	7983	Westerveld	Drenthe
+Wapserveen	3125	8351	Westerveld	Drenthe
+Wateren	3126	8438	Westerveld	Drenthe
+Wilhelminaoord	3127	8384	Westerveld	Drenthe
+Wittelte	3128	7986	Westerveld	Drenthe
+Zorgvlied	3129	8437	Westerveld	Drenthe
+Aadorp	1925	7611	Almelo	Overijssel
+Almelo	1924	7601-7610	Almelo	Overijssel	postcode eindigend op 0 representeert hier bij uitzondering woonadressen (vooralsnog 6 straten in een nieuwe wijk voor 7610)
+Bornerbroek	1926	7627	Almelo	Overijssel
+-	2050		Borne	Overijssel	vervallen woonplaatscode voor Hertme; de actuele code voor Hertme is 3570
+-	2051		Borne	Overijssel	vervallen woonplaatscode voor Zenderen; de actuele code voor Zenderen is 3571
+-	2049		Borne	Overijssel	vervallen woonplaatscode voor Borne; de actuele code voor Borne is 3511
+Borne	3511	7621-7623	Borne	Overijssel
+Hertme	3570	7626	Borne	Overijssel
+Zenderen	3571	7625	Borne	Overijssel
+Dalfsen	1237	7721-7722	Dalfsen	Overijssel
+Lemelerveld	1238	8151-8154	Dalfsen	Overijssel
+Nieuwleusen	1239	7711	Dalfsen	Overijssel
+Bathmen	2854	7437	Deventer	Overijssel
+Colmschate	2855	7429	Deventer	Overijssel	Colmschate heeft een woonplaatscode, maar is eigenlijk een wijk in de plaats Deventer (omgeving Stationsweg, Holterweg, Bloemendalsweg)
+Deventer	2856	7411-7428	Deventer	Overijssel	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Diepenveen	2857	7431	Deventer	Overijssel
+Lettele	2858	7434	Deventer	Overijssel
+Okkenbroek	2859	7435	Deventer	Overijssel
+Schalkhaar	2860	7433	Deventer	Overijssel
+Agelo	1407	7636	Dinkelland	Overijssel	Agelo kent twee kernen: Groot Agelo en Klein Agelo
+Denekamp	1408	7591	Dinkelland	Overijssel
+Deurningen	1409	7561	Dinkelland	Overijssel	Deurningen-centrum (omgeving Hoofdstraat, Kerkweg). In de buurgemeente Oldenzaal ligt buitengebied Deurningen (postcode 7562, woonplaatscode 1669) tussen de plaats Deurningen en de plaats Oldenzaal.
+Lattrop-Breklenkamp	1410	7635	Dinkelland	Overijssel	Lattrop-Breklenkamp kent twee kernen: Lattrop en Breklenkamp
+Nutter	1411	7638	Dinkelland	Overijssel
+Ootmarsum	1412	7631	Dinkelland	Overijssel
+Oud Ootmarsum	1413	7637	Dinkelland	Overijssel
+Rossum	1414	7596	Dinkelland	Overijssel
+Saasveld	1415	7597	Dinkelland	Overijssel
+Tilligte	1416	7634	Dinkelland	Overijssel
+Weerselo	1417	7595	Dinkelland	Overijssel
+Enschede	1145	7511-7548	Enschede	Overijssel	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Haaksbergen	2347	7481-7483	Haaksbergen	Overijssel
+-	1550		Hardenberg	Overijssel	woonplaatscode Hardenberg hernummerd van 1550 in 3608
+-	1543		Hardenberg	Overijssel	woonplaatscode Bruchterveld hernummerd van 1543 in 3609
+Ane	1537	7784	Hardenberg	Overijssel
+Anerveen	1538	7788	Hardenberg	Overijssel
+Anevelde	1539	7785	Hardenberg	Overijssel
+Balkbrug	1540	7707	Hardenberg	Overijssel
+Bergentheim	1541	7691	Hardenberg	Overijssel
+Brucht	1542	7696	Hardenberg	Overijssel
+Bruchterveld	3609	7695	Hardenberg	Overijssel	woonplaatscode Bruchterveld hernummerd van 1543 in 3609
+Collendoorn	1544	7798	Hardenberg	Overijssel
+De Krim	1545	7781-7782	Hardenberg	Overijssel
+Dedemsvaart	1546	7701-7702	Hardenberg	Overijssel
+Den Velde	1547	7786	Hardenberg	Overijssel
+Diffelen	1548	7795	Hardenberg	Overijssel
+Gramsbergen	1549	7783	Hardenberg	Overijssel
+Hardenberg	3608	7771-7773	Hardenberg	Overijssel	woonplaatscode Hardenberg hernummerd van 1550 in 3608
+Heemserveen	1551	7796	Hardenberg	Overijssel
+Holtheme	1552	7787	Hardenberg	Overijssel
+Holthone	1553	7779	Hardenberg	Overijssel
+Hoogenweg	1554	7793	Hardenberg	Overijssel
+Kloosterhaar	1555	7694	Hardenberg	Overijssel	bebouwde kom noordelijk van Dorpsstraat/Groenedijk
+Loozen	1556	7778	Hardenberg	Overijssel
+Lutten	1557	7775	Hardenberg	Overijssel
+Mariënberg	1558	7692	Hardenberg	Overijssel
+Radewijk	1559	7791	Hardenberg	Overijssel
+Rheeze	1560	7794	Hardenberg	Overijssel
+Rheezerveen	1561	7797	Hardenberg	Overijssel
+Schuinesloot	1562	7777	Hardenberg	Overijssel
+Sibculo	1563	7693	Hardenberg	Overijssel	Woonplaatscode 1563 voor het overgrote deel van Sibculo. Een klein deel van Sibculo (ten zuidoosten van de Kloosterstraat) ligt in buurgemeente Twenterand (woonplaatscode 3324).
+Slagharen	1564	7776	Hardenberg	Overijssel
+Venebrugge	1565	7792	Hardenberg	Overijssel
+-	3586		Hellendoorn	Overijssel	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor plaats in deze gemeente Hellendoorn
+-	1041		Hellendoorn	Overijssel	Per 21-3-2013 vervallen woonplaatscode voor Hellendoorn; het actuele nummer voor Hellendoorn is 3583.
+-	1042		Hellendoorn	Overijssel	Per 21-3-2013 vervallen woonplaatscode voor Nijverdal; het actuele nummer voor Nijverdal is 3584.
+-	3582		Hellendoorn	Overijssel	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor plaats in deze gemeente Hellendoorn
+-	3585		Hellendoorn	Overijssel	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor plaats in deze gemeente Hellendoorn
+Daarle	1038	7688	Hellendoorn	Overijssel
+Daarlerveen	1039	7687	Hellendoorn	Overijssel
+Haarle	1040	7448	Hellendoorn	Overijssel
+Hellendoorn	3583	7447	Hellendoorn	Overijssel	De oorspronkelijke woonplaatscode 1041 is per 21-3-2013 gewijzigd in 3583.
+Nijverdal	3584	7441-7443	Hellendoorn	Overijssel	De oorspronkelijke woonplaatscode 1042 is per 21-3-2013 gewijzigd in 3584.
+-	1804		Hengelo	Overijssel	vervallen woonplaatscode voor Hengelo; de actuele code voor Hengelo is 3510
+Hengelo	3510	7551-7559	Hengelo	Overijssel
+Ambt Delden	1438	7495	Hof van Twente	Overijssel	buitengebied grotendeels overeenkomend met de in 2001 opgeheven gelijknamige gemeente, maar zonder Bentelo. Destijds was het geen plaatsnaam.
+Bentelo	1439	7497	Hof van Twente	Overijssel
+Delden	1440	7491	Hof van Twente	Overijssel
+Diepenheim	1441	7478	Hof van Twente	Overijssel
+Goor	1442	7471-7472	Hof van Twente	Overijssel
+Hengevelde	1443	7496	Hof van Twente	Overijssel
+Markelo	1444	7475	Hof van Twente	Overijssel
+'s-Heerenbroek	2899	8275	Kampen	Overijssel
+Grafhorst	2896	8277	Kampen	Overijssel
+IJsselmuiden	2895	8271	Kampen	Overijssel
+Kampen	2894	8261-8267	Kampen	Overijssel	postcode 8267 voor Kampereiland (tussen Ganzendiep, IJssel en Zwarte Meer)
+Kamperveen	2900	8278	Kampen	Overijssel
+Mastenbroek	2901	8293	Kampen	Overijssel	Mastenbroek-west (=ten westen van de Oude Wetering); Oude Wetering 113-145 (gedeelte nabij 't Nije Begin) en Bisschopswetering 72-98 en 67-93 en Kamperwetering 2.
+Wilsum	2898	8274	Kampen	Overijssel
+Zalk	2897	8276	Kampen	Overijssel
+Beuningen	1711	7588	Losser	Overijssel
+de Lutte	1714	7587	Losser	Overijssel	Het Kadaster (en daarmee de postcode) spellen het lidwoord met onderkast d; bebouwde-kombord spelt kapitale letter D.
+Glane	1712	7585	Losser	Overijssel
+Losser	1713	7581-7582	Losser	Overijssel
+Overdinkel	1715	7586	Losser	Overijssel
+Deurningen	1669	7562	Oldenzaal	Overijssel	Dit is het oostelijk buitengebied van Deurningen (omgeving Oldenzaalsdijk, Beldhuismolenweg). Het gelijknamige en aangrenzende dorp Deurningen (postcode 7561, woonplaatscode 1409) ligt in Dinkelland.
+Oldenzaal	1668	7571-7577	Oldenzaal	Overijssel
+Marle	1383	8198	Olst-Wijhe	Overijssel	aan Gelderse kant van de IJssel
+Olst	1379	8121	Olst-Wijhe	Overijssel
+Welsum	1382	8196	Olst-Wijhe	Overijssel	aan Gelderse kant van de IJssel
+Wesepe	1381	8124	Olst-Wijhe	Overijssel
+Wijhe	1380	8131	Olst-Wijhe	Overijssel
+-	2546		Ommen	Overijssel	woonplaatscode Ommen hernummerd van 2546 in 3629
+-	2547		Ommen	Overijssel	woonplaatscode Arriën hernummerd van 2547 in 3630
+Arriën	3630	7735	Ommen	Overijssel	woonplaatscode Arriën hernummerd van 2547 in 3630
+Beerze	2548	7736	Ommen	Overijssel
+Beerzerveld	2549	7685	Ommen	Overijssel
+Dalmsholte	2550	8146	Ommen	Overijssel
+Giethmen	2551	8147	Ommen	Overijssel
+Lemele	2552	8148	Ommen	Overijssel
+Ommen	3629	7731-7732	Ommen	Overijssel	woonplaatscode Ommen hernummerd van 2546 in 3629
+Stegeren	2553	7737	Ommen	Overijssel
+Vilsteren	2554	7734	Ommen	Overijssel
+Vinkenbuurt	2555	7739	Ommen	Overijssel
+Witharen	2556	7738	Ommen	Overijssel
+Broekland	1497	8107	Raalte	Overijssel
+Heeten	1498	8111	Raalte	Overijssel
+Heino	1492	8141	Raalte	Overijssel
+Laag Zuthem	1495	8055	Raalte	Overijssel
+Lierderholthuis	1496	8144	Raalte	Overijssel
+Luttenberg	1494	8105	Raalte	Overijssel
+Mariënheem	1493	8106	Raalte	Overijssel
+Nieuw-Heeten	1499	8112	Raalte	Overijssel	woonplaatscode 1499 wordt gespeld als: 'Nieuw Heeten'
+Raalte	1491	8101-8103	Raalte	Overijssel
+Holten	1567	7451	Rijssen-Holten	Overijssel
+Rijssen	1566	7461-7463	Rijssen-Holten	Overijssel
+IJhorst	1048	7955	Staphorst	Overijssel
+Punthorst	1049	7715	Staphorst	Overijssel
+Rouveen	1047	7954	Staphorst	Overijssel
+Staphorst	1046	7951	Staphorst	Overijssel
+Baarlo	2691	8372	Steenwijkerland	Overijssel
+Baars	2692	8336	Steenwijkerland	Overijssel
+Basse	2693	8342	Steenwijkerland	Overijssel
+Belt-Schutsloot	2694	8066	Steenwijkerland	Overijssel
+Blankenham	2695	8373	Steenwijkerland	Overijssel
+Blokzijl	2696	8356	Steenwijkerland	Overijssel
+De Bult	2697	8346	Steenwijkerland	Overijssel
+De Pol	2698	8337	Steenwijkerland	Overijssel
+Eesveen	2699	8347	Steenwijkerland	Overijssel
+Giethoorn	2700	8355	Steenwijkerland	Overijssel
+IJsselham	2701	8361	Steenwijkerland	Overijssel
+Kalenberg	2702	8377	Steenwijkerland	Overijssel
+Kallenkote	2703	8345	Steenwijkerland	Overijssel
+Kuinre	2704	8374	Steenwijkerland	Overijssel
+Marijenkampen	2705	8339	Steenwijkerland	Overijssel
+Nederland	2706	8362	Steenwijkerland	Overijssel
+Oldemarkt	2707	8375	Steenwijkerland	Overijssel
+Onna	2708	8344	Steenwijkerland	Overijssel
+Ossenzijl	2709	8376	Steenwijkerland	Overijssel
+Paasloo	2710	8378	Steenwijkerland	Overijssel
+Scheerwolde	2711	8371	Steenwijkerland	Overijssel
+Sint Jansklooster	2712	8326	Steenwijkerland	Overijssel
+Steenwijk	2713	8331-8333	Steenwijkerland	Overijssel
+Steenwijkerwold	2714	8341	Steenwijkerland	Overijssel
+Tuk	2715	8334	Steenwijkerland	Overijssel
+Vollenhove	2716	8325	Steenwijkerland	Overijssel
+Wanneperveen	2717	7946	Steenwijkerland	Overijssel
+Wetering	2718	8363	Steenwijkerland	Overijssel
+Willemsoord	2719	8338	Steenwijkerland	Overijssel
+Witte Paarden	2720	8335	Steenwijkerland	Overijssel
+Zuidveen	2721	8343	Steenwijkerland	Overijssel
+Albergen	1283	7665	Tubbergen	Overijssel
+Fleringen	1284	7666	Tubbergen	Overijssel
+Geesteren	1285	7678	Tubbergen	Overijssel
+Haarle	1286	7668	Tubbergen	Overijssel
+Harbrinkhoek	1287	7615	Tubbergen	Overijssel
+Hezingen	1288	7662	Tubbergen	Overijssel
+Langeveen	1289	7679	Tubbergen	Overijssel
+Mander	1290	7663	Tubbergen	Overijssel
+Manderveen	1291	7664	Tubbergen	Overijssel
+Mariaparochie	1292	7614	Tubbergen	Overijssel	klein deel van de plaats Mariaparochie (postcode 7603) ligt in de buurgemeente Almelo
+Reutum	1293	7667	Tubbergen	Overijssel
+Tubbergen	1294	7651	Tubbergen	Overijssel
+Vasse	1295	7661	Tubbergen	Overijssel
+Bruinehaar	3320	7675	Twenterand	Overijssel
+Den Ham	3321	7683	Twenterand	Overijssel
+Geerdijk	3322	7686	Twenterand	Overijssel	juli 2015 postcodegebied 7686 nog niet in GoogleMaps (wel oude postcode 7681 voor dit gebied)
+Kloosterhaar	3323	7675	Twenterand	Overijssel	bebouwde kom zuidelijk van Dorpsstraat/Groenedijk
+Sibculo	3324	7676	Twenterand	Overijssel	Woonplaatscode 3324 voor klein deel van Sibculo, ten zuidoosten van de Kloosterstraat. Het merendeel van Sibculo ligt in buurgemeente Hardenberg (woonplaatscode 1563).
+Vriezenveen	3325	7671-7672	Twenterand	Overijssel
+Vroomshoop	3326	7681	Twenterand	Overijssel
+Westerhaar-Vriezenveensewijk	3327	7676	Twenterand	Overijssel
+Enter	1088	7468	Wierden	Overijssel
+Hoge Hexel	1089	7645	Wierden	Overijssel
+Notter	1090	7467	Wierden	Overijssel
+Wierden	1087	7641-7642	Wierden	Overijssel
+Zuna	1091	7466	Wierden	Overijssel
+Genemuiden	2198	8281	Zwartewaterland	Overijssel
+Hasselt	2199	8061	Zwartewaterland	Overijssel
+Mastenbroek	2200	8291-8294	Zwartewaterland	Overijssel	Mastenbroek ligt deels ook in buurgemeente Kampen, bij het kruispunt van de wegen Oude Wetering met Kerkwetering. De bebouwde kom Oude Wetering ligt iets zuidelijker aan de gelijknamige weg.
+Zwartsluis	2201	8064	Zwartewaterland	Overijssel
+Zwolle	1182	8011-8045	Zwolle	Overijssel	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Almere	1270	1309-1364	Almere	Flevoland	De plaats Almere bestaat uit 6 kernen: Haven, Stad (Oost, West en Centrum), Buiten, Poort, Hout en Pampus. Deze worden hier als aparte plaatsen vermeld. Niet alle postcodes zijn in gebruik.
+Biddinghuizen	2429	8256	Dronten	Flevoland
+Dronten	2430	8251-8254	Dronten	Flevoland
+Swifterbant	2431	8255	Dronten	Flevoland
+Lelystad	1051	8211-8245	Lelystad	Flevoland	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Bant	1272	8314	Noordoostpolder	Flevoland
+Creil	1281	8312	Noordoostpolder	Flevoland
+Emmeloord	1271	8301-8305	Noordoostpolder	Flevoland
+Ens	1276	8307	Noordoostpolder	Flevoland
+Espel	1280	8311	Noordoostpolder	Flevoland
+Kraggenburg	1275	8317	Noordoostpolder	Flevoland	Circa 1848 kunstmatig aangelegd eilandje met vuurtoren in de vaarroute naar Genemuiden tot ca. 1941, toen het deel uitmaakte van de drooggevallen Noordoostpolder.
+Luttelgeest	1273	8315	Noordoostpolder	Flevoland
+Marknesse	1274	8316	Noordoostpolder	Flevoland
+Nagele	1278	8308	Noordoostpolder	Flevoland
+Rutten	1282	8313	Noordoostpolder	Flevoland
+Schokland	1277	8319	Noordoostpolder	Flevoland
+Tollebeek	1279	8309	Noordoostpolder	Flevoland
+Urk	2143	8321-8322	Urk	Flevoland
+Zeewolde	1075	3891-3899	Zeewolde	Flevoland
+Aalten	1193	7121-7123	Aalten	Gelderland
+Bredevoort	1194	7126	Aalten	Gelderland
+De Heurne	1195	7095	Aalten	Gelderland	De plaats Heurne in dezelfde gemeente Aalten ligt 6 km oostelijk van de plaats De Heurne
+Dinxperlo	1196	7091	Aalten	Gelderland
+-	2253		Apeldoorn	Gelderland	vervallen woonplaatscode voor Wenum Wiesel; de actuele code voor Wenum Wiesel is 3561
+-	2255		Apeldoorn	Gelderland	vervallen woonplaatscode voor Uddel; de actuele code voor Uddel is 3562
+-	2252		Apeldoorn	Gelderland	vervallen woonplaatscode voor 'Radio Kootwijk'; de actuele code voor 'Radio Kootwijk' is 3563
+-	2249		Apeldoorn	Gelderland	vervallen woonplaatscode voor Hoog Soeren; de actuele code voor Hoog Soeren is 3564
+-	2247		Apeldoorn	Gelderland	vervallen woonplaatscode voor Apeldoorn; de actuele code voor Apeldoorn is 3560
+Apeldoorn	3560	7311-7336	Apeldoorn	Gelderland	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Beekbergen	2258	7361	Apeldoorn	Gelderland
+Beemte Broekland	2254	7341	Apeldoorn	Gelderland	De woonplaatscode (2254) is toegekend aan de gecombineerde woonplaats Beemte Broekland.
+Hoenderloo	2257	7351	Apeldoorn	Gelderland	Een gelijknamig en aangrenzend Hoenderloo ligt in buurgemeente Ede (postcode 7352, woonplaatscode 2772).
+Hoog Soeren	3564	7346	Apeldoorn	Gelderland
+Klarenbeek	2248	7381	Apeldoorn	Gelderland	Dit is zuidwestelijke deel van Klarenbeek. Het noordoostelijke deel (postcode 7382, woonplaatscode 2606) ligt in buurgemeente Voorst.
+Lieren	2250	7364	Apeldoorn	Gelderland
+Loenen	2251	7371	Apeldoorn	Gelderland
+Radio Kootwijk	3563	7348	Apeldoorn	Gelderland
+Uddel	3562	3888	Apeldoorn	Gelderland
+Ugchelen	2256	7339	Apeldoorn	Gelderland
+Wenum Wiesel	3561	7345	Apeldoorn	Gelderland	De woonplaatscode (3561, voorheen 2253) is toegekend aan de gecombineerde woonplaats Wenum Wiesel.
+Arnhem	1296	6811-6846	Arnhem	Gelderland	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+-	1055		Barneveld	Gelderland	vervallen woonplaatscode voor Voorthuizen; het actuele nummer voor Voorthuizen is 3599
+-	1054		Barneveld	Gelderland	vervallen woonplaatscode voor Barneveld; het actuele nummer voor Barneveld is 3597
+-	1058		Barneveld	Gelderland	vervallen woonplaatscode voor Terschuur; het actuele nummer voor Terschuur is 3598
+-	1060		Barneveld	Gelderland	vervallen woonplaatscode voor Zwartebroek; het actuele nummer voor Zwartebroek is 3600
+Achterveld	1063	3792	Barneveld	Gelderland	Gelders buitengebied ten zuiden van de Barneveldsche Beek en ten noordoosten van het gelijknamige en aangrenzende Utrechtse dorp Achterveld (postcode 3791, woonplaatscode 2640, gemeente Leusden).
+Barneveld	3597	3771-3773	Barneveld	Gelderland
+De Glind	1061	3794	Barneveld	Gelderland
+Garderen	1057	3886	Barneveld	Gelderland
+Kootwijk	1062	3775	Barneveld	Gelderland
+Kootwijkerbroek	1056	3774	Barneveld	Gelderland
+Stroe	1059	3776	Barneveld	Gelderland
+Terschuur	3598	3784	Barneveld	Gelderland
+Voorthuizen	3599	3781	Barneveld	Gelderland
+Zwartebroek	3600	3785	Barneveld	Gelderland
+-	2290		Berg en Dal	Gelderland	vervallen woonplaatscode voor Berg en Dal in de opgeheven gemeente Groesbeek; de actuele code voor Berg en Dal is 3618
+-	2873		Berg en Dal	Gelderland	vervallen woonplaatscode voor Berg en Dal in de opgeheven gemeente Ubbergen; de actuele code voor Berg en Dal is 3618
+Beek	2872	6573	Berg en Dal	Gelderland
+Berg en Dal	3618	6571-6572	Berg en Dal	Gelderland
+Erlecom	2874	6577	Berg en Dal	Gelderland
+Groesbeek	2291	6561-6562	Berg en Dal	Gelderland
+Heilig Landstichting	2292	6564	Berg en Dal	Gelderland
+Kekerdom	2875	6579	Berg en Dal	Gelderland
+Leuth	2876	6578	Berg en Dal	Gelderland
+Millingen aan de Rijn	2289	6566	Berg en Dal	Gelderland
+Ooij	2877	6576	Berg en Dal	Gelderland
+Persingen	2878	6575	Berg en Dal	Gelderland
+Ubbergen	2879	6574	Berg en Dal	Gelderland
+Beltrum	1661	7156	Berkelland	Gelderland
+Borculo	1659	7271	Berkelland	Gelderland
+Eibergen	1662	7151-7152	Berkelland	Gelderland
+Geesteren	1655	7274	Berkelland	Gelderland
+Gelselaar	1654	7275	Berkelland	Gelderland
+Haarlo	1660	7273	Berkelland	Gelderland
+Neede	1656	7161	Berkelland	Gelderland
+Rekken	1663	7157	Berkelland	Gelderland
+Rietmolen	1657	7165	Berkelland	Gelderland
+Ruurlo	1658	7261	Berkelland	Gelderland
+Beuningen Gld	2751	6641-6642	Beuningen	Gelderland	Het Kadaster en de postcode voegen in hun spelling van deze plaatsnaam een afkorting toe.
+Ewijk	2752	6644	Beuningen	Gelderland	postcodegebied 6644 omvat ook recreatiecentrum De Groene Heuvels
+Weurt	2750	6551	Beuningen	Gelderland
+Winssen	2753	6645	Beuningen	Gelderland
+-	1524		Bronckhorst	Gelderland	vervallen woonplaatscode voor Zelhem; de actuele code voor Zelhem is 3574
+-	1525		Bronckhorst	Gelderland	vervallen woonplaatscode voor Halle; de actuele code voor Halle is 3575
+-	1533		Bronckhorst	Gelderland	vervallen woonplaatscode voor Wichmond; de actuele code voor Wichmond is 3572
+-	1534		Bronckhorst	Gelderland	vervallen woonplaatscode voor Vorden; de actuele code voor Vorden is 3573
+Baak	1527	7223	Bronckhorst	Gelderland
+Bronkhorst	1530	7226	Bronckhorst	Gelderland
+Drempt	1520	6996	Bronckhorst	Gelderland
+Halle	3575	7025	Bronckhorst	Gelderland
+Hengelo (Gld)	1535	7255	Bronckhorst	Gelderland	Woonplaatsnaam wordt geschreven als de plaatsnaam, gevolgd door provincie-afkorting tussen haakjes.
+Hoog-Keppel	1521	6997	Bronckhorst	Gelderland
+Hummelo	1523	6999	Bronckhorst	Gelderland
+Keijenborg	1536	7256	Bronckhorst	Gelderland
+Laag-Keppel	1522	6998	Bronckhorst	Gelderland
+Olburgen	1529	7225	Bronckhorst	Gelderland
+Rha	1528	7224	Bronckhorst	Gelderland
+Steenderen	1526	7221	Bronckhorst	Gelderland
+Toldijk	1531	7227	Bronckhorst	Gelderland
+Vierakker	1532	7233	Bronckhorst	Gelderland
+Vorden	3573	7251	Bronckhorst	Gelderland
+Wichmond	3572	7234	Bronckhorst	Gelderland
+Zelhem	3574	7021	Bronckhorst	Gelderland
+Brummen	1111	6971	Brummen	Gelderland	in dit postcodegebied ligt voormalig buurtschap Broek (ten zuidwesten van Brummen en ten noordwesten van Leuvenheim)
+Eerbeek	1114	6961	Brummen	Gelderland
+Empe	1109	7399	Brummen	Gelderland
+Hall	1113	6964	Brummen	Gelderland
+Leuvenheim	1112	6974	Brummen	Gelderland
+Tonden	1110	6975	Brummen	Gelderland
+Asch	3370	4115	Buren	Gelderland
+Beusichem	3371	4112	Buren	Gelderland
+Buren	3372	4116	Buren	Gelderland
+Buurmalsen	3373	4116	Buren	Gelderland	Buurmalsen hernummerd van 3221 in 3373 in deze gemeente Buren en in 3532 (voor 2 enclaves) in buurgemeente Geldermalsen.
+Eck en Wiel	3374	4024	Buren	Gelderland
+Erichem	3375	4117	Buren	Gelderland
+Ingen	3376	4031	Buren	Gelderland
+Kapel-Avezaath	3377	4016	Buren	Gelderland	Dit is het minder bevolkte deel van Kapel-Avezaath; dit dorp ligt grotendeels in buurgemeente Tiel (postcodegebied 4013), maar daar als twee woorden gespeld.
+Kerk-Avezaath	3378	4012	Buren	Gelderland	Twee kleine delen van 'Kerk Avezaath' liggen in buurgemeente Tiel: postcodegebieden 4017 (Daver, Hamse Biezen, Thedingsweert) en 4013 (de hogere huisnummers van de Zoelensestraat).
+Lienden	3379	4033	Buren	Gelderland
+Maurik	3380	4021	Buren	Gelderland
+Ommeren	3381	4032	Buren	Gelderland
+Ravenswaaij	3382	4119	Buren	Gelderland
+Rijswijk (GLD)	3383	4023	Buren	Gelderland	In de spelling van het Kadaster is een afkorting aan de plaatsnaam toegevoegd.
+Zoelen	3384	4011	Buren	Gelderland
+Zoelmond	3385	4111	Buren	Gelderland
+Culemborg	2052	4101-4107	Culemborg	Gelderland
+Doesburg	2142	6981-6984	Doesburg	Gelderland
+Doetinchem	3246	7001-7009	Doetinchem	Gelderland
+Gaanderen	3247	7011	Doetinchem	Gelderland
+Wehl	3248	7031	Doetinchem	Gelderland
+Afferden	2902	6654	Druten	Gelderland
+Deest	2903	6653	Druten	Gelderland
+Druten	2904	6651-6652	Druten	Gelderland
+Horssen	2905	6631	Druten	Gelderland
+Puiflijk	2906	6655	Druten	Gelderland
+Duiven	2096	6921-6922	Duiven	Gelderland
+Groessen	2097	6923	Duiven	Gelderland
+Loo Gld	2098	6924	Duiven	Gelderland	Deze plaats (postcode 6924, woonplaatscode 2098) ligt in Duiven. Aan de overzijde van de Nederrijn in buurgemeente Lingewaard ligt het gelijknamige buitengebied (woonplaatscode 3135, postcode 6924).
+Bennekom	2766	6721	Ede	Gelderland
+De Klomp	2770	6745	Ede	Gelderland
+Deelen	2773	6877	Ede	Gelderland	Lebretshoeveweg en overig buitengebied ten noorden van het vliegveld en ten oosten van Nationale Park de Hoge Veluwe
+Ede	2764	6711-6718	Ede	Gelderland
+Ederveen	2769	6744	Ede	Gelderland
+Harskamp	2768	6732	Ede	Gelderland
+Hoenderloo	2772	7352	Ede	Gelderland	Dit omvat alleen Delenseweg 2-8 en 3-65 en Houtkampweg 11-13. De bebouwde kom van de plaats Hoenderloo ligt in buurgemeente Apeldoorn (postcode 7351, woonplaatscode 2257).
+Lunteren	2765	6741	Ede	Gelderland
+Otterlo	2767	6731	Ede	Gelderland
+Wekerom	2771	6733	Ede	Gelderland
+'t Harde	1845	8084	Elburg	Gelderland
+Doornspijk	1846	8085	Elburg	Gelderland
+Elburg	1844	8081-8082	Elburg	Gelderland
+Emst	1346	8166	Epe	Gelderland
+Epe	1344	8161-8162	Epe	Gelderland
+Oene	1347	8167	Epe	Gelderland
+Vaassen	1345	8171-8172	Epe	Gelderland
+Ermelo	2573	3851-3853	Ermelo	Gelderland
+Harderwijk	3222	3841-3849	Harderwijk	Gelderland
+Hierden	3223	3849	Harderwijk	Gelderland
+Hattem	2882	8051-8052	Hattem	Gelderland
+Heerde	2865	8181	Heerde	Gelderland
+Veessen	2866	8194	Heerde	Gelderland
+Vorchten	2867	8193	Heerde	Gelderland
+Wapenveld	2868	8191	Heerde	Gelderland
+Heumen	3495	6582	Heumen	Gelderland
+Malden	3494	6581	Heumen	Gelderland
+Nederasselt	3497	6612	Heumen	Gelderland
+Overasselt	3496	6611	Heumen	Gelderland
+Angeren	3133	6687	Lingewaard	Gelderland
+Bemmel	3131	6681	Lingewaard	Gelderland
+Doornenburg	3134	6686	Lingewaard	Gelderland
+Gendt	3132	6691	Lingewaard	Gelderland
+Haalderen	3136	6685	Lingewaard	Gelderland
+Huissen	3130	6851-6852	Lingewaard	Gelderland
+Loo Gld	3135	6924	Lingewaard	Gelderland	Dit (woonplaatscode 3135, postcode 6924) is het kleine Lingewaardse gedeelte aan de oostoever van de Nederrijn. Deze plaats (ook postcode 6924, woonplaatscode 2098) ligt vnl. in buurgemeente Duiven.
+Ressen	3137	6684	Lingewaard	Gelderland
+Almen	1334	7218	Lochem	Gelderland
+Barchem	1335	7244	Lochem	Gelderland
+Eefde	1336	7211	Lochem	Gelderland
+Epse	1337	7214	Lochem	Gelderland
+Gorssel	1338	7213	Lochem	Gelderland
+Harfsen	1339	7217	Lochem	Gelderland
+Joppe	1340	7215	Lochem	Gelderland
+Kring van Dorth	1341	7216	Lochem	Gelderland	Kring van Dorth ligt op postcodegrens 7214/7216.
+Laren	1342	7245	Lochem	Gelderland	Er zijn twee woonplaatsen Laren (deze en een in Noord-Holland); voor geen van beide heeft het Kadaster een provincie-aanduiding in de naam opgenomen.
+Lochem	1343	7241-7242	Lochem	Gelderland
+Alem	1623	5335	Maasdriel	Gelderland
+Ammerzoden	1624	5324	Maasdriel	Gelderland
+Hedel	1625	5321	Maasdriel	Gelderland
+Heerewaarden	1626	6624	Maasdriel	Gelderland
+Hoenzadriel	1627	5333	Maasdriel	Gelderland
+Hurwenen	1628	5327	Maasdriel	Gelderland
+Kerkdriel	1629	5331	Maasdriel	Gelderland
+Rossum	1630	5328	Maasdriel	Gelderland
+Velddriel	1631	5334	Maasdriel	Gelderland
+Well	1632	5325	Maasdriel	Gelderland
+'s-Heerenberg	2206	7041	Montferland	Gelderland
+Azewijn	2202	7045	Montferland	Gelderland
+Beek	2203	7037	Montferland	Gelderland
+Braamt	2204	7047	Montferland	Gelderland
+Didam	2205	6941-6942	Montferland	Gelderland
+Kilder	2207	7035	Montferland	Gelderland
+Lengel	2208	7044	Montferland	Gelderland
+Loerbeek	2209	7036	Montferland	Gelderland	Dit is Loerbeek ten noorden van de Berkenlaan. De bebouwde kom ten zuiden daarvan valt onder woonplaats Beek (woonplaatscode 2203, postcode 7037).
+Stokkum	2210	7039	Montferland	Gelderland
+Vethuizen	2211	7046	Montferland	Gelderland
+Wijnbergen	2212	7048	Montferland	Gelderland	oorspronkelijk lag Wijnbergen aan de noordkant van de snelweg A18 (postcode 7007, bedrijventerrein in Doetinchem-zuid)
+Zeddam	2213	7038	Montferland	Gelderland
+-	1095		Neder-Betuwe	Gelderland	vervallen woonplaatscode voor 'Echteld'; de actuele code voor 'Echteld' is 3524.
+Dodewaard	1094	6669	Neder-Betuwe	Gelderland	Per 1-8-2019 woonplaatsgrens met Opheusden schuift van de as van de Tolsestraat (gelegen in Dodewaard ten noorden van de Linge) iets naar het zuiden (betreft 5 bedrijven, 11 woningen en 46 inwoners).
+Echteld	3524	4054	Neder-Betuwe	Gelderland
+IJzendoorn	1099	4053	Neder-Betuwe	Gelderland
+Kesteren	1096	4041	Neder-Betuwe	Gelderland
+Ochten	1097	4051	Neder-Betuwe	Gelderland
+Opheusden	1098	4043	Neder-Betuwe	Gelderland	Per 1-8-2019 schuift woonplaatsgrens met Dodewaard van de as van de Tolsestraat iets naar het zuiden (5 bedrijven, 11 woningen en 46 inwoners gaan over naar Opheusden).
+-	2869		Nijkerk	Gelderland	woonplaatscode voor Nijkerk hernummerd van 2869 (1-1-2013) in 3581 (13-1-2014) in 3606 (sinds 2-3-2015)
+-	3581		Nijkerk	Gelderland	woonplaatscode voor Nijkerk hernummerd van 2869 (1-1-2013) in 3581 (13-1-2014) in 3606 (sinds 2-3-2015)
+-	2870		Nijkerk	Gelderland	Nijkerkerveen 13-1-2014 hernummerd van 2870 in 3607 (2-3-2015)
+Hoevelaken	2871	3871	Nijkerk	Gelderland
+Nijkerk	3606	3861-3863	Nijkerk	Gelderland	voormalige woonplaatscodes voor Nijkerk: 2869 (1-1-2013) en 3581 (13-1-2014)
+Nijkerkerveen	3607	3864	Nijkerk	Gelderland	voormalige woonplaatscode voor Nijkerkerveen: 2870.
+-	2543		Nijmegen	Gelderland	BAG-administratie kent dit nummer niet (meer); vermoedelijk vervallen woonplaatscode in gem. Nijmegen
+-	2544		Nijmegen	Gelderland	BAG-administratie kent dit nummer niet (meer); vermoedelijk vervallen woonplaatscode in gem. Nijmegen
+-	2542		Nijmegen	Gelderland	vervallen woonplaatscode voor Nijmegen; de actuele code voor Nijmegen is 3030
+Lent	2545	6663	Nijmegen	Gelderland
+Nijmegen	3030	6511-6546	Nijmegen	Gelderland	Niet alle nummers binnen de opgegeven postcodereeks zijn in gebruik voor deze plaats.
+Elspeet	2983	8075	Nunspeet	Gelderland
+Hulshorst	2984	8077	Nunspeet	Gelderland
+Nunspeet	2982	8071-8072	Nunspeet	Gelderland
+Vierhouten	2985	8076	Nunspeet	Gelderland
+'t Loo	3068	8095	Oldebroek	Gelderland
+Hattemerbroek	3069	8094	Oldebroek	Gelderland
+Noordeinde Gld	3070	8079	Oldebroek	Gelderland
+Oldebroek	3071	8096	Oldebroek	Gelderland
+Oosterwolde	3072	8097	Oldebroek	Gelderland
+Wezep	3073	8091	Oldebroek	Gelderland
+Groenlo	2224	7141-7142	Oost Gelre	Gelderland
+Harreveld	2228	7135	Oost Gelre	Gelderland
+Lichtenvoorde	2227	7131-7132	Oost Gelre	Gelderland
+Lievelde	2225	7137	Oost Gelre	Gelderland
+Mariënvelde	2230	7263	Oost Gelre	Gelderland
+Vragender	2226	7134	Oost Gelre	Gelderland
+Zieuwent	2229	7136	Oost Gelre	Gelderland
+Breedenbroek	1587	7084	Oude IJsselstreek	Gelderland
+Etten	1581	7075	Oude IJsselstreek	Gelderland
+Gendringen	1585	7081	Oude IJsselstreek	Gelderland
+Heelweg	1576	7055	Oude IJsselstreek	Gelderland	Deze spelling als ongedeelde plaatsnaam wordt in de woonplaatscodelijst vermeld. De bouwde komborden onderscheiden Heelweg-West en Heelweg-Oost.
+Megchelen	1584	7078	Oude IJsselstreek	Gelderland
+Netterden	1583	7077	Oude IJsselstreek	Gelderland
+Silvolde	1578	7064	Oude IJsselstreek	Gelderland
+Sinderen	1579	7065	Oude IJsselstreek	Gelderland
+Terborg	1577	7061	Oude IJsselstreek	Gelderland
+Ulft	1580	7071	Oude IJsselstreek	Gelderland
+Varsselder	1582	7076	Oude IJsselstreek	Gelderland
+Varsseveld	1574	7051	Oude IJsselstreek	Gelderland
+Voorst	1586	7083	Oude IJsselstreek	Gelderland
+Westendorp	1575	7054	Oude IJsselstreek	Gelderland
+Andelst	1862	6673	Overbetuwe	Gelderland
+Driel	1863	6665	Overbetuwe	Gelderland
+Elst	1864	6661-6662	Overbetuwe	Gelderland
+Hemmen	1865	6672	Overbetuwe	Gelderland
+Herveld	1866	6674	Overbetuwe	Gelderland	Deze spelling als ongedeelde plaatsnaam wordt in de woonplaatscodelijst vermeld. De bouwde komborden onderscheiden Herveld-N en Herveld-Z voor respectievelijk het noordelijke en het zuidelijke dorp.
+Heteren	1867	6666	Overbetuwe	Gelderland
+Homoet	1868	6676	Overbetuwe	Gelderland	Weiveldstraat, Adelhofstraat, Homoetsestraat in buitengebied tussen Heteren en Valburg
+Oosterhout	1869	6678	Overbetuwe	Gelderland	Gelijknamige woonwijk Oosterhout per 2010 over naar gemeente Nijmegen (alwaar postcode: 6515; postcode 6679 opgeheven).
+Randwijk	1870	6668	Overbetuwe	Gelderland
+Slijk-Ewijk	1871	6677	Overbetuwe	Gelderland
+Valburg	1872	6675	Overbetuwe	Gelderland
+Zetten	1873	6671	Overbetuwe	Gelderland
+-	2007		Putten	Gelderland	vervallen woonplaatscode voor Putten; de actuele code voor Putten is 3580
+-	3578		Putten	Gelderland	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor plaats in deze gemeente Putten of in gemeente Ooststellingwerf (Fryslân)
+-	3579		Putten	Gelderland	BAG-woonplaatscode niet uitgegeven; vermoedelijk bedoeld geweest voor plaats in deze gemeente Putten of in gemeente Ooststellingwerf (Fryslân)
+Putten	3580	3881-3882	Putten	Gelderland
+Doorwerth	2986	6865	Renkum	Gelderland
+Heelsum	2987	6866	Renkum	Gelderland
+Heveadorp	2988	6869	Renkum	Gelderland
+Oosterbeek	2990	6861-6862	Renkum	Gelderland
+Renkum	2991	6871	Renkum	Gelderland
+Wolfheze	2989	6874	Renkum	Gelderland
+De Steeg	1502	6994	Rheden	Gelderland
+Dieren	1504	6951-6953	Rheden	Gelderland
+Ellecom	1503	6955	Rheden	Gelderland
+Laag-Soeren	1506	6957	Rheden	Gelderland
+Rheden	1501	6991	Rheden	Gelderland
+Spankeren	1505	6956	Rheden	Gelderland
+Velp	1500	6881-6883	Rheden	Gelderland
+Rozendaal	2927	6891	Rozendaal	Gelderland	Zweefvliegveld Terlet ligt op Arnhems grondgebied
+Scherpenzeel	2135	3925	Scherpenzeel	Gelderland
+-	2557		Tiel	Gelderland	woonplaatscode 2557 voor Tiel hernummerd in 3601.
+Kapel Avezaath	2560	4013	Tiel	Gelderland	Een dunner bevolkt deel van dit dorp ligt in buurgemeente Buren (postcodegebied 4016, noordelijk van de A15). De hogere huisnummers van de Zoelensestraat liggen in Kerk-Avezaath (toch in 4013).
+Kerk Avezaath	2561	4017	Tiel	Gelderland	Dit is het minder bevolkte deel van 'Kerk Avezaath'; dit dorp ligt grotendeels in buurgemeente Buren (postcodegebied 4012), maar daar gespeld met koppelteken.
+Tiel	3601	4001-4007	Tiel	Gelderland	woonplaatscode 2557 was aanvankelijk toegekend aan 'Tiel'; inmiddels is aan Tiel de code 3601 toegekend en is code 2557 gereserveerd voor een andere plaats.
+Wadenoijen	2559	4014	Tiel	Gelderland
+Zennewijnen	2558	4062	Tiel	Gelderland	Enkele adressen in Zennewijnen (Hermoesestraat, Waalbandijk) ligt in buurgemeente Neerijnen (postcode 4062 PP, met eigen woonplaatscode 3369).
+Klarenbeek	2606	7382	Voorst	Gelderland	Dit is noordoostelijk deel van Klarenbeek. Het zuidwestelijke deel (postcode 7381, woonplaatscode 2248) ligt in de buurgemeente Apeldoorn.
+Nijbroek	2607	7397	Voorst	Gelderland
+Steenenkamer	2608	7439	Voorst	Gelderland	Grenzend aan deze plaats ligt wijk De Hoven (in buurgemeente Deventer in Overijssel).
+Terwolde	2609	7396	Voorst	Gelderland
+Teuge	2610	7395	Voorst	Gelderland
+Twello	2611	7391-7392	Voorst	Gelderland
+Voorst	2612	7383	Voorst	Gelderland
+Wilp	2613	7384	Voorst	Gelderland
+Wageningen	2006	6701-6709	Wageningen	Gelderland
+-	3211		West Betuwe	Gelderland	vervallen Woonplaatscode voor Acquoy; de actuele Woonplaatscode voor Acquoy is 3527.
+-	3221		West Betuwe	Gelderland	vervallen Woonplaatscode voor Buurmalsen (voor het deel dat ligt in de gemeente Geldermalsen, dus niet het deel in buurgemeente Buren); de actuele Woonplaatscode voor dit deel van Buurmalsen is 3532.
+-	3220		West Betuwe	Gelderland	vervallen Woonplaatscode voor Tricht; de actuele Woonplaatscode voor Tricht is 3531
+-	3219		West Betuwe	Gelderland	vervallen Woonplaatscode voor Meteren; de actuele Woonplaatscode voor Meteren is 3530
+-	3218		West Betuwe	Gelderland	vervallen Woonplaatscode voor de plaats Geldermalsen; de actuele Woonplaatscode voor de plaats Geldermalsen is 3529
+-	3212		West Betuwe	Gelderland	vervallen Woonplaatscode voor Rhenoy; de actuele Woonplaatscode voor Tricht is 3528
+Acquoy	3527	4151	West Betuwe	Gelderland
+Asperen	2353	4147	West Betuwe	Gelderland
+Beesd	3213	4153	West Betuwe	Gelderland
+Buurmalsen	3532	4197	West Betuwe	Gelderland	Buurmalsen woonplaatscode 3532 voor 2 enclaves in deze gemeente Geldermalsen; gelijknamige woonplaats in buurgemeente Buren is hernummerd van 3221 in 3373.
+Deil	3217	4158	West Betuwe	Gelderland
+Enspijk	3216	4157	West Betuwe	Gelderland
+Est	3359	4185	West Betuwe	Gelderland
+Geldermalsen	3529	4191	West Betuwe	Gelderland
+Gellicum	3214	4155	West Betuwe	Gelderland
+Haaften	3360	4175	West Betuwe	Gelderland
+Heesselt	3361	4063	West Betuwe	Gelderland
+Hellouw	3362	4174	West Betuwe	Gelderland
+Herwijnen	2354	4171	West Betuwe	Gelderland	Herwijnen kent drie buurtschappen (wijken?): Kerkeneind, Boveneind en Benedeneind.
+Heukelum	2355	4161	West Betuwe	Gelderland
+Meteren	3530	4194	West Betuwe	Gelderland
+Neerijnen	3363	4182	West Betuwe	Gelderland
+Ophemert	3364	4061	West Betuwe	Gelderland
+Opijnen	3365	4184	West Betuwe	Gelderland
+Rhenoy	3528	4152	West Betuwe	Gelderland
+Rumpt	3215	4156	West Betuwe	Gelderland
+Spijk	2356	4211-4212	West Betuwe	Gelderland
+Tricht	3531	4196	West Betuwe	Gelderland
+Tuil	3366	4176	West Betuwe	Gelderland
+Varik	3367	4064	West Betuwe	Gelderland
+Vuren	2357	4214	West Betuwe	Gelderland
+Waardenburg	3368	4181	West Betuwe	Gelderland
+Zennewijnen	3369	4062	West Betuwe	Gelderland	Enkele adressen in de Hermoesestraat en Waalbandijk (postcode 4062 PP) ligt in gemeente Neerijnen. Zennewijnen ligt grotendeels in gemeente Tiel (woonplaatscode 2558, postcode 4062).
+Alphen	1766	6626	West Maas en Waal	Gelderland
+Altforst	1767	6628	West Maas en Waal	Gelderland
+Appeltern	1768	6629	West Maas en Waal	Gelderland
+Beneden-Leeuwen	1769	6658	West Maas en Waal	Gelderland
+Boven-Leeuwen	1770	6657	West Maas en Waal	Gelderland
+Dreumel	1771	6621	West Maas en Waal	Gelderland
+Maasbommel	1772	6627	West Maas en Waal	Gelderland
+Wamel	1773	6659	West Maas en Waal	Gelderland
+Westervoort	1936	6931-6932	Westervoort	Gelderland
+Balgoij	2570	6613	Wijchen	Gelderland
+Batenburg	2568	6634	Wijchen	Gelderland
+Bergharen	2565	6617	Wijchen	Gelderland
+Hernen	2566	6616	Wijchen	Gelderland
+Leur	2567	6615	Wijchen	Gelderland
+Niftrik	2569	6606	Wijchen	Gelderland
+Wijchen	2564	6601-6605	Wijchen	Gelderland
+Winterswijk	1478	7101-7103	Winterswijk	Gelderland
+Winterswijk Brinkheurne	1486	7115	Winterswijk	Gelderland
+Winterswijk Corle	1487	7119	Winterswijk	Gelderland
+Winterswijk Henxel	1485	7113	Winterswijk	Gelderland
+Winterswijk Huppel	1480	7105	Winterswijk	Gelderland
+Winterswijk Kotten	1482	7107	Winterswijk	Gelderland
+Winterswijk Meddo	1479	7104	Winterswijk	Gelderland
+Winterswijk Miste	1484	7109	Winterswijk	Gelderland
+Winterswijk Ratum	1481	7106	Winterswijk	Gelderland
+Winterswijk Woold	1483	7108	Winterswijk	Gelderland
+Aalst	2626	5308	Zaltbommel	Gelderland
+Bern	2627	5318	Zaltbommel	Gelderland
+Brakel	2628	5306	Zaltbommel	Gelderland
+Bruchem	2629	5314	Zaltbommel	Gelderland
+Delwijnen	2630	5316	Zaltbommel	Gelderland
+Gameren	2631	5311	Zaltbommel	Gelderland
+Kerkwijk	2632	5315	Zaltbommel	Gelderland
+Nederhemert	2633	5317	Zaltbommel	Gelderland	De naam Nederhemert wordt ook wel gebruikt voor Nederhemert-Noord; de twee plaatsen Nederhemert (N) en Nederhemert (Z) liggen ten noorden en ten zuiden van de Afgedamde Maas.
+Nieuwaal	2634	5313	Zaltbommel	Gelderland
+Poederoijen	2635	5307	Zaltbommel	Gelderland
+Zaltbommel	2636	5301-5302	Zaltbommel	Gelderland
+Zuilichem	2637	5305	Zaltbommel	Gelderland
+Aerdt	2976	6913	Zevenaar	Gelderland
+Angerlo	1299	6986	Zevenaar	Gelderland
+Babberich	1298	6909	Zevenaar	Gelderland
+Giesbeek	1300	6987	Zevenaar	Gelderland
+Herwen	2977	6914	Zevenaar	Gelderland
+Lathum	1301	6988	Zevenaar	Gelderland
+Lobith	2978	6915	Zevenaar	Gelderland
+Pannerden	2979	6911	Zevenaar	Gelderland
+Spijk	2980	6917	Zevenaar	Gelderland
+Tolkamer	2981	6916	Zevenaar	Gelderland	wijk Tuindorp ligt aan westzijde van plaats Tolkamer
+Zevenaar	1297	6901-6905	Zevenaar	Gelderland
+Warnsveld	1396	7231-7232	Zutphen	Gelderland
+Zutphen	1395	7201-7207	Zutphen	Gelderland 
