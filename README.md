@@ -31,9 +31,9 @@ For the same results, use
 zless /net/corpora/twitter2/Tweets/2020/02/20200201*.out.gz | /net/corpora/twitter2/tools/tweet2tab -i user.location text > output_test.txt
 ```
 Explanation:
-2020 - year
-02 - month
-20200201 - year, month, day
+2020 - year  
+02 - month  
+20200201 - year, month, day  
 
 To move the retrieved data to your own machine, log out of Karora, go to the folder where you want to download the data and use
 ```
