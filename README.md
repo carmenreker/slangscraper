@@ -21,6 +21,8 @@ This set of tools processes Dutch tweets from February 2020 and August 2020 and 
 
 ## Collecting data
 
+### Tweets
+
 Through ubuntu, you can remote into Karora with the command
 ```
 ssh <your credentials>@karora.let.rug.nl
@@ -42,36 +44,13 @@ scp <your-credentials>@karora.let.rug.nl:/path/to/tweets /local/path
 use 'pwd' to find the path for /local/path  
 /path/to/tweets is where you saved the txt file.  
 
-## Executing program
+### Slang
 
-An internet connection is required to run the program, as wget needs to connect to the URL to access the data.  
-Use chmod as follows to be able to run the programs :
-```
-chmod +x filename.sh
-```
-Do this for every .sh program
+Slang collected from https://www.straattaalwoordenboek.nl/
 
-Run the programs in this order:
-```
-./clean.sh
-```
-```
-./location.sh
-```
-```
-./slanggrepper.sh
-```
-# Results
+Data was manually collected by copying and pasted. Make sure to save it in a file called straattaal.txt
 
-The program will return 5,945,619 tweets in the Randstad, 180 containing slang and 13,442,260 tweets for the rest of the Netherlands, 231 containing slang.
-
-# Sources
-
-City dataset collected from https://www.metatopos.eu/Wpnr.php  
-Slang dataset collected from https://www.straattaalwoordenboek.nl/  
-
-# Editing
-The following terms were removed from the slang dataset because of a double meaning with standard Dutch:  
+The following terms were removed from the slang dataset because of a double meaning with standard Dutch or English:  
 Anti  
 Bumpers  
 Chick  
@@ -96,3 +75,35 @@ OV
 Pit  
 Ruurd  
 Tamara  
+
+### Places
+
+City dataset collected from https://www.metatopos.eu/Wpnr.php  
+Data was manually copied and pasted into two txt files.  
+Selecting all table entries is fine, this will be cleaned up later.  
+
+Put all cities from Noord-Holland, Zuid-Holland and Utrecht into a file called randstad.txt
+Put all cities from the other provinces (Groningen, Friesland, Drenthe, Overijssel, Gelderland, Zeeland, Noord-Brabant and Limburg) into a file called nederland.txt
+
+## Executing program
+
+An internet connection is required to run the program, as wget needs to connect to the URL to access the data.  
+Use chmod as follows to be able to run the programs :
+```
+chmod +x filename.sh
+```
+Do this for every .sh program
+
+Run the programs in this order:
+```
+./clean.sh
+```
+```
+./location.sh
+```
+```
+./slanggrepper.sh
+```
+# Results
+
+The program will return 5,945,619 tweets in the Randstad, 180 containing slang and 13,442,260 tweets for the rest of the Netherlands, 231 containing slang.
